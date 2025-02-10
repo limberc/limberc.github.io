@@ -19,7 +19,7 @@ My research interests including:
 - Decentralized Machine Learning System.
 - Representation Learning Theory.
 
-====
+======
 Selected Awards:
 - Championship at ACM. MM GrandChallenge in Multi-Modal Video Identification Track in 2019
 - Championship at AWS Self-driving car racing challenge in 2021
