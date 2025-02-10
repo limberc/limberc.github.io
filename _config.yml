@@ -22,19 +22,19 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "limber.png"
   name             : "Zehua Cheng"
-  pronouns         : # example: "she/her"  
+  # pronouns         : # example: "she/her"  
   bio              : "Head of AI@FLock.io, Researcher@Oxford"
   location         : "Oxford, UK"
   employer         : "University of Oxford"
-  uri              : # URL
+  # uri              : # URL
   email            : "zehua.cheng@cs.ox.ac.uk"
 
   # Academic websites
   # arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=7DCKxa4AAAAJ"
-  impactstory      : # URL
+  # impactstory      : # URL
   # orcid            : "http://orcid.org/yourorcidurl"
   # semantic         : # URL
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
