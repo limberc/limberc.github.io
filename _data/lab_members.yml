@@ -1,7 +1,7 @@
-- name: "Alice Smith"
-  role: "Postdoctoral Fellow"
-  intro: "Alice is focused on computational modeling and data analytics."
-  image: "/images/lab/alice.jpg"
+- name: "Dr. Lianlong Wu"
+  role: "Senior Research Fellow"
+  intro: "Dr. Lianlong Wu is Senior Research Fellow at Oxford DeAI Institute. Dr. Lianlong got D.Phil in Computer Science at University of Oxford."
+  image: "/images/lab/lianlong.jpg"
 
 - name: "Bob Johnson"
   role: "PhD Student"
