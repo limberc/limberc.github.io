@@ -25,3 +25,4 @@ My research interests including:
 - Third Prize at NeurIPS 2023: [Open Catalyst Challenge](https://opencatalystproject.org/challenge.html)
 - International Joint Conference on Artificial Intelligence (IJCAI 2022) Travel Grant
 - AAAI 2024 Global Competition on Math Problem Solving and Reasoning Track 1 - Solution without API (3rd Prize) and Track 2 - Solution without API (2nd Prize).
+- Second Prize at KDD Cup 2024 - OAG Challenge AQA
