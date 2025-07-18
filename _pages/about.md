@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I obtained by Ph.D. in Computer Science from the Department of Computer Science, University of Oxford. During my Ph.D. studies, I was gernoursly funded by Google Cloud Computing Research Grant and Alibaba Cloud (UK) Research Fund.
+I obtained by Ph.D. in Computer Science from the Department of Computer Science, University of Oxford. During my Ph.D. studies, I was gernoursly funded by Google Cloud Computing Research Grant and Alibaba Cloud (UK) Research Fund. I am building Scalable Trustworthy AI System.
 
-Currently, I am leading AI research at FLock.io, where I focus on advancing decentralized machine learning systems. We will soon offically cooperate with [Prof. Jim Davies](https://www.bdi.ox.ac.uk/Team/jim-davies) from University of Oxford on Decentralized Machine Learning. I have **several funded opportunities** to support junior research positions at FLock.io and Oxford on related research topics.
+Currently, I am leading AI research at FLock.io, where I focus on advancing decentralized machine learning systems. We will soon offically cooperate with [Prof. Jim Davies](https://www.bdi.ox.ac.uk/Team/jim-davies) from University of Oxford on Decentralized Machine Learning. I have **several funded opportunities** to support junior research positions at FLock.io and University of Oxford on related research topics.
 
 If you are interested in working with me on decentralized machine learning systems, please feel free to contact me at zehua@flock.io.
 
@@ -17,7 +17,6 @@ My research interests including:
 - AI for Science.
 - Large-language Models.
 - Decentralized Machine Learning System.
-- Representation Learning Theory.
 
 ## Selected Awards:
 
