@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Working Projects"
+title: "Working Projects - Infrastructure"
 permalink: /lab/
 ---
 
