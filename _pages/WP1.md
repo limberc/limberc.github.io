@@ -2,6 +2,7 @@
 layout: default
 title: "Working Projects - Infrastructure"
 permalink: /WP1/
+author_profile: true
 ---
 
 We build autonomous agents that reason over distributed, high-stakes data (Bio & Finance) without ever centralizing it. We replace trust with cryptography and replace correlation with causal/structural reasoning.
