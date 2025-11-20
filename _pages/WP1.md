@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "Working Projects - Infrastructure"
 permalink: /WP1/
 author_profile: true
