@@ -27,7 +27,7 @@ The Moonshot: To create the "SSL/TLS" of Machine Learning—a standard protocol 
 
 The Moonshot: A "Global Brain" where the "Neurons" are hospitals. A single logical LLM where the parameters are physically distributed across 1,0000 institutions.
 
-**The Hard Problem**: Latency. If every token generation requires a network call to 5 different hospitals, the model will be unusably slow.
+**The Hard Problem**: Latency. If every token generation requires a network call to 5 different hospitals, the model will be unusably slow. Security. LLM can have biased and can even be weaponized.
 
 * **Hierarchical Gating**: A lightweight "Router Model" sits on the user's device. It decides: "Is this a generic biology question (Local Inference)? Or a rare cancer question (Route to Mayo Clinic Node)?"
 * **Asynchronous Expert Execution**: Unlike standard MoE which waits for all experts, Swarm-MoE uses "Speculative Decoding." It guesses the expert's likely output while waiting for the real encrypted embedding to return from the hospital.
@@ -35,7 +35,8 @@ The Moonshot: A "Global Brain" where the "Neurons" are hospitals. A single logic
 
 Existing works:
 
-1. Cheng, Zehua, Rui Sun, Jiahao Sun, and Yike Guo. (2025). "Scaling Decentralized Learning with FLock." In Procedings of 2025 IEEE/WIC International Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT). [**WI-IAT 2025 - Best Application Award**][[Paper]](https://arxiv.org/abs/2507.15349)
+1. Cheng, Zehua, Rui Sun, Jiahao Sun, and Yike Guo. (2025). "Scaling Decentralized Learning with FLock." In Procedings of 2025 IEEE/WIC International Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT). [**WI-IAT 2025 - Best Application Award**] [[Paper]](https://arxiv.org/abs/2507.15349)
+2. Cheng, Zehua, Manying Zhang, Jiahao Sun, and Wei Dai. "On weaponization-resistant large language models with prospect theoretic alignment." In Proceedings of the 31st International Conference on Computational Linguistics, pp. 10309-10324. 2025. [[Paper]](https://aclanthology.org/2025.coling-main.687.pdf)
 
 ## Nash-Equilibrium Data Valuation: The Shapley Protocol
 
