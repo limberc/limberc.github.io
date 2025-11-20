@@ -10,5 +10,6 @@ main:
 
   # - title: "Teaching"
     # url: /teaching/    
-  - title: "Working Projects - Infrastructure"
+  - title: "Working Project - Infra"
     url: /WP1/
+  - title: "Working Project - Reasoning"
