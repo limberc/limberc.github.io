@@ -21,6 +21,16 @@ The Moonshot: Standard LLMs are probabilistic—they 'guess' the next token. We 
 * **The Constraint Compiler** (The Hard Mask): Compile the domain's rigid rules into Deterministic Finite Automata (DFA). During inference, these automata project a "Hard Mask" onto the LLM’s vocabulary. Any token that would violate the schema is mathematically assigned zero probability.
 * **The Semantic Verifier** (The Loop): A token-level verifier runs in parallel with the generation. It checks candidate facts (Subject-Relation-Object) against a retrieved Knowledge Graph in real-time.
 
+## The Inter-Graph Reasoning Protocol (IGRP)
+
+The Moonshot: The "Internet of Knowledge"—A protocol where agents can "walk" across millions of decentralized, private Knowledge Graphs (KGs) to discover hidden causal chains, without ever moving the data to a central server.
+
+**The Hard Problem**: Knowledge is fragmented. Hospital A has a patient graph. University B has a gene-regulatory graph. Pharma C has a chemical-structure graph. Currently, to discover a cure, you have to centralize all three (Impossible due to Privacy/IP). Standard Agents cannot "reason" across these silos; they hallucinate connections that don't exist.
+
+* **The "Bridge" Nodes (Entity Alignment)** Privacy-Preserving Entity Alignment (hashed embeddings) to identify "Bridge Nodes" (e.g., Gene TP53 exists in both the Hospital KG and the University KG). The system creates a virtual "Hyper-Edge" connecting these disparate graphs, creating a unified logical surface without data sharing.
+* **The "Walker" Agent (Neural Pathfinding)** Instead of RAG (retrieving text), the agent executes a Multi-Hop Reasoning Walk.
+* **The Compositional Proof** The Agent bundles these distributed hops into a Cryptographic Trace. It presents the final answer ("Molecule Y cures Patient X") along with the verified path of reasoning, which can be audited without revealing the full graphs.
+
 ## Geometric Equivariant Agents: Physics-Aware Design
 The Moonshot: Create an LLM that "thinks" in continuous 3D space, not just discrete text tokens. It should be mathematically incapable of generating a structure that violates the laws of physics.
 
