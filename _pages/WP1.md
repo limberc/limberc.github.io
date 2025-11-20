@@ -19,8 +19,8 @@ The Moonshot: To create the "SSL/TLS" of Machine Learning—a standard protocol 
 
 **The Hard Problem**: Currently, Zero-Knowledge (ZK) protocols are slow and mostly work for inference (proving a model ran). Proving training (Backpropagation, SGD) involves millions of floating-point multiplications, which is computationally prohibitive for current ZK-SNARKs.
 
-* **Recursive Proof Composition**: Instead of one massive proof for the whole training run, your team builds a recursive system (like Plonky2 or Halo2) where the proof for Step $N$ verifies the proof for Step $N-1$.
-* **Optimized Circuits for Gradients**: You design custom Arithmetic Circuits specifically for Matrix Multiplication and ReLU derivatives, optimizing the "constraints per step" (the metric of ZK speed).
+* **Recursive Proof Composition**: Instead of one massive proof for the whole training run, we builds a recursive system (like Plonky2 or Halo2) where the proof for Step $N$ verifies the proof for Step $N-1$.
+* **Optimized Circuits for Gradients**: We design custom Arithmetic Circuits specifically for Matrix Multiplication and ReLU derivatives, optimizing the "constraints per step" (the metric of ZK speed).
 * **Verifiable Randomness**: Use an on-chain Verifiable Random Function (VRF) to seed the SGD batches, ensuring the node didn't cherry-pick "easy" data to fake a high loss reduction.
 
 ## Decentralized-MoE: The Inter-Institutional Mixture of Experts
@@ -44,9 +44,9 @@ The Moonshot: Solving the "Free Rider Problem." In current federated learning, a
 
 **The Hard Problem**: Calculating the true Shapley Value is $O(N!)$—impossible to compute for thousands of nodes.
 
-* **Gradient-Based Influence Functions**: Instead of retraining the model $N$ times to measure value, you approximate value by analyzing the cosine similarity of a node's gradient update relative to the "Gold Standard" validation set held by the protocol.
+* **Gradient-Based Influence Functions**: Instead of retraining the model $N$ times to measure value, we approximate value by analyzing the cosine similarity of a node's gradient update relative to the "Gold Standard" validation set held by the protocol.
 * **The Payment Stream**: A smart contract layer (L2) that acts as a "Streaming Payment" engine. Every time a node sends a gradient that reduces the global loss, micro-payments flow to their wallet. If they send noise, they get slashed (fined).
-* **Equilibrium Discovery**: You prove mathematically that "Honest Contribution" is the Nash Equilibrium of this game—cheating is always less profitable than contributing.
+* **Equilibrium Discovery**: We prove mathematically that "Honest Contribution" is the Nash Equilibrium of this game—cheating is always less profitable than contributing.
 
 ## The Holographic Gradient: Bandwidth-Efficient Learning
 
@@ -54,6 +54,6 @@ The Moonshot: Training a 1 Trillion parameter model on a network of consumer-gra
 
 **The Hard Problem**: Bandwidth. Sending 1TB of gradients every second is impossible for hospitals or home nodes.
 
-* **CountSketch / TensorSketch**: You don't send the gradient. You send a "Sketch"—a randomized projection of the gradient into a tiny subspace.
-* **Error Feedback Memory**: The "compression error" (the part of the gradient you threw away) is stored locally in a "Memory Buffer" and added to the next update. This ensures that over time, all information is eventually transmitted, guaranteeing convergence (unlike simple quantization).
+* **CountSketch / TensorSketch**: We don't send the gradient. We send a "Sketch"—a randomized projection of the gradient into a tiny subspace.
+* **Error Feedback Memory**: The "compression error" (the part of the gradient threw away) is stored locally in a "Memory Buffer" and added to the next update. This ensures that over time, all information is eventually transmitted, guaranteeing convergence (unlike simple quantization).
 * **"Holographic" Reconstruction**: The central aggregator receives "sketches" from 1,000 nodes and mathematically reconstructs the high-fidelity global gradient, leveraging the fact that noise cancels out at scale.
