@@ -35,7 +35,7 @@ The Moonshot: A "Global Brain" where the "Neurons" are hospitals. A single logic
 
 Existing works:
 
-1. Cheng, Zehua, Rui Sun, Jiahao Sun, and Yike Guo. (2025). "Scaling Decentralized Learning with FLock." In Procedings of 2025 IEEE/WIC International Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT). [**WI-IAT 2025 - Best Application Award**][Paper](https://arxiv.org/abs/2507.15349)
+1. Cheng, Zehua, Rui Sun, Jiahao Sun, and Yike Guo. (2025). "Scaling Decentralized Learning with FLock." In Procedings of 2025 IEEE/WIC International Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT). [**WI-IAT 2025 - Best Application Award**][[Paper]](https://arxiv.org/abs/2507.15349)
 
 ## Nash-Equilibrium Data Valuation: The Shapley Protocol
 
