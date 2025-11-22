@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I obtained by Ph.D. in Computer Science from the Department of Computer Science, University of Oxford. During my Ph.D. studies, I was gernoursly funded by Google Cloud Computing Research Grant and Alibaba Cloud (UK) Research Fund. I am building Scalable Trustworthy AI System.
-
-Currently, I am leading AI research at FLock.io, where I focus on advancing decentralized ML systems. I am now cooperate with [Prof. Jim Davies](https://www.bdi.ox.ac.uk/Team/jim-davies) from University of Oxford on Decentralized Machine Learning. I have **several funded opportunities** to support junior research positions at FLock.io and University of Oxford on related research topics.
+I obtained by Ph.D. in Computer Science from the Department of Computer Science, University of Oxford. During my Ph.D. studies, I was gernoursly funded by Google Cloud Computing Research Grant, Alibaba Cloud (UK) Research Award, and Li Ka-shing Global Health Foundation.
 
 We build autonomous agents that reason over distributed, high-stakes data (Bio & Finance) without ever centralizing it. We replace trust with cryptography and replace correlation with causal/structural reasoning.
+
+Currently, I am leading AI research at FLock.io, where I focus on advancing decentralized ML systems. I am now cooperate with [Prof. Jim Davies](https://www.bdi.ox.ac.uk/Team/jim-davies) from University of Oxford on Decentralized Machine Learning. I have **several funded opportunities** to support junior research positions at FLock.io and University of Oxford on related research topics.
 
 ## Selected Awards:
 
