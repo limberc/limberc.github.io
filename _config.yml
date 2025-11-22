@@ -59,7 +59,7 @@ author:
   # keybase          : # Username
   # instagram        : # Username
   # lastfm           : # Username
-  # linkedin         : # Username
+  linkedin         : https://www.linkedin.com/in/zehuac/
   # mastodon         : # URL
   # medium           : # URL
   # pinterest        : # Username
@@ -335,7 +335,6 @@ tag_archive:
 
 
 # HTML Compression
-# - http://jch.penibelst.de/
 compress_html:
   clippings: all
   ignore:
