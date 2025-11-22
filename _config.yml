@@ -25,7 +25,7 @@ author:
   avatar           : "limber.png"
   name             : "Zehua Cheng"
   # pronouns         : # example: "she/her"  
-  bio              : "Cheif AI Scientist@FLock.io, Researcher@Oxford"
+  bio              : "Lecturer (Assistant Professor). Cheif AI Scientist@FLock.io, Researcher@Oxford"
   location         : "Oxford, UK"
   employer         : "University of Oxford"
   uri              : https://limberc.github.io
@@ -315,16 +315,6 @@ whitelist:
   - jemoji
 
 
-# Archives
-#  Type
-#  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
-#  - Jekyll Archives plugin archive pages ~> type: jekyll-archives
-#  Path (examples)
-#  - Archive page should exist at path when using Liquid method or you can
-#    expect broken links (especially with breadcrumbs enabled)
-#  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
-#  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
-#  - <base_path/my-awesome-category/index.html ~> path: /
 category_archive:
   type: liquid
   path: /categories/
