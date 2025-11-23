@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "Infra"
 permalink: /WP1/
 author_profile: true
