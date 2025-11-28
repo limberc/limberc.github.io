@@ -9,6 +9,8 @@ main:
     # url: /publications/
   # - title: "Teaching"
     # url: /teaching/    
+  - title: "Blog"
+    url: /year-archive/
   - title: "Working Project - Infra"
     url: /WP1/
   - title: "Working Project - Reasoning"
