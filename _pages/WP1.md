@@ -6,7 +6,7 @@ author_profile: true
 
 We build autonomous agents that reason over distributed, high-stakes data (Bio & Finance) without ever centralizing it. We replace trust with cryptography and replace correlation with causal/structural reasoning.
 
-If you are interested in any of this project, please don't feel free to contact me. :)
+If you are interested in any of this project, please feel free to contact me. :)
 
 # Infrastructure
 
@@ -21,6 +21,10 @@ The Moonshot: To create the "SSL/TLS" of Machine Learning—a standard protocol 
 * **Recursive Proof Composition**: Instead of one massive proof for the whole training run, we builds a recursive system (like Plonky2 or Halo2) where the proof for Step $N$ verifies the proof for Step $N-1$.
 * **Optimized Circuits for Gradients**: We design custom Arithmetic Circuits specifically for Matrix Multiplication and ReLU derivatives, optimizing the "constraints per step" (the metric of ZK speed).
 * **Verifiable Randomness**: Use an on-chain Verifiable Random Function (VRF) to seed the SGD batches, ensuring the node didn't cherry-pick "easy" data to fake a high loss reduction.
+
+**Relevant Publications**
+
+1. Zehua Cheng, Wei Dai, Jiahao Sun. "FusedGates-ML: Accelerating Verifiable Machine Learning in PLONK with High-Degree Custom Gates for Fused Operations"
 
 ## Decentralized-MoE: The Inter-Institutional Mixture of Experts
 
@@ -47,6 +51,11 @@ The Moonshot: Solving the "Free Rider Problem." In current federated learning, a
 * **The Payment Stream**: A smart contract layer (L2) that acts as a "Streaming Payment" engine. Every time a node sends a gradient that reduces the global loss, micro-payments flow to their wallet. If they send noise, they get slashed (fined).
 * **Equilibrium Discovery**: We prove mathematically that "Honest Contribution" is the Nash Equilibrium of this game—cheating is always less profitable than contributing.
 
+**Relevant Publications**
+
+1. Zehua Cheng, Wei Dai, Jiahao Sun. "Verifiable Game-Theoretic Incentives for Federated Learning".
+2. Zehua Cheng, Wei Dai, Jiahao Sun. "Fair and Efficient Data Valuation in Federated Learning using Hierarchical Shapley Value Approximation".
+
 ## The Holographic Gradient: Bandwidth-Efficient Learning
 
 The Moonshot: Training a 1 Trillion parameter model on a network of consumer-grade internet connections (e.g., connecting Starlink satellites or home GPUs).
@@ -56,3 +65,7 @@ The Moonshot: Training a 1 Trillion parameter model on a network of consumer-gra
 * **CountSketch / TensorSketch**: We don't send the gradient. We send a "Sketch"—a randomized projection of the gradient into a tiny subspace.
 * **Error Feedback Memory**: The "compression error" (the part of the gradient threw away) is stored locally in a "Memory Buffer" and added to the next update. This ensures that over time, all information is eventually transmitted, guaranteeing convergence (unlike simple quantization).
 * **"Holographic" Reconstruction**: The central aggregator receives "sketches" from 1,000 nodes and mathematically reconstructs the high-fidelity global gradient, leveraging the fact that noise cancels out at scale.
+
+**Relevant Publications**:
+
+1. Zehua Cheng, Wei Dai, and Jiahao Sun. "Decentralized Learning with Communication-Efficient Learned Gradient Sketches"

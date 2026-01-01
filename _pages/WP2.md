@@ -5,7 +5,7 @@ permalink: /WP2/
 
 We build autonomous agents that reason over distributed, high-stakes data (Bio & Finance) without ever centralizing it. We replace trust with cryptography and replace correlation with causal/structural reasoning.
 
-If you are interested in any of this project, please don't feel free to contact me. :)
+If you are interested in any of this project, please feel free to contact me. :)
 
 # Causal & Geometric Reasoning
 
@@ -20,6 +20,15 @@ The Moonshot: Standard LLMs are probabilistic—they 'guess' the next token. We 
 * **The Blueprint Layer**(Factor Graph Priors): Instead of sampling tokens directly, the engine first samples a target subspace (a configuration of attributes) using a Probabilistic Factor Graph.
 * **The Constraint Compiler** (The Hard Mask): Compile the domain's rigid rules into Deterministic Finite Automata (DFA). During inference, these automata project a "Hard Mask" onto the LLM’s vocabulary. Any token that would violate the schema is mathematically assigned zero probability.
 * **The Semantic Verifier** (The Loop): A token-level verifier runs in parallel with the generation. It checks candidate facts (Subject-Relation-Object) against a retrieved Knowledge Graph in real-time.
+
+**Relevant Publications**:
+
+1. **Zehua Cheng**, Wei Dai, Jiahao Sun, and Thomas Lukasiewicz. "Visual Set Program Synthesizer". Submitted to PAKDD 2026.
+2. **Zehua Cheng**, Wei Dai, Jiahao Sun, and Thomas Lukasiewicz. "Noise-Robust Multi-modal Distillation via Dual-Track Collaborative Learning". Submitted to PAKDD 2026.
+3. **Zehua Cheng**, Wei Dai, Jiahao Sun, and Thomas Lukasiewicz. "Knowledge-Graph Guided Probabilistic Subspace Generation for Reliable and Diverse LLM Data Synthesis". Submitted to ACL 2026.
+4. **Zehua Cheng**, Wei Dai, Jiahao Sun, and Thomas Lukasiewicz. "Neuro-Symbolic Framework for Provably Correct Generative AI using Probabilistic Dependency Graphs". Submitted to ACL 2026.
+5. **Zehua Cheng**, Wei Dai, Jiahao Sun, and Thomas Lukasiewicz. "Generating Structurally Sound Synthetic Data via LLM-Guided Causal Model Execution". Submitted to ACL 2026.
+6. Wenhu Zhang, Wei Dai, Jiahao Sun, **Zehua Cheng**, Thomas Lukasiewicz. "Generative Multi-modal Gradient Matching". Submitted to ACL 2026.
 
 ## The Inter-Graph Reasoning Protocol (IGRP)
 
@@ -47,4 +56,3 @@ The Moonshot: Scientific literature is growing too fast (2 papers/minute). Much 
 * **Epistemic Conflict Resolution**: When the graph detects a topology conflict (A contradicts B), it flags it.
 * **Agent Verification**: It spawns a "Judge Agent" to analyze the methodology of both papers and assign a confidence score, or propose a tie-breaking experiment.
 
-**Soon to publish.**
