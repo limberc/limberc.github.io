@@ -13,6 +13,10 @@ We build autonomous agents that reason over distributed, high-stakes data (Bio &
 
 Currently, I am leading AI research at FLock.io, where I focus on advancing decentralized ML systems. I am now cooperate with [Prof. Jim Davies](https://www.bdi.ox.ac.uk/Team/jim-davies) and [Prof Ivan Martinovic](https://www.cs.ox.ac.uk/people/ivan.martinovic/) from University of Oxford on Decentralized Machine Learning. I have **several funded opportunities** to support junior research positions at FLock.io and University of Oxford on related research topics.
 
+## Open Opportunities:
+
+[FLock.io Oxford Phil in Computer Science Scholarship: Security of AI Systems](https://www.cs.ox.ac.uk/aboutus/vacancies/floc_io.html)
+
 ## Selected Awards:
 
 - Championship at ACM. MM GrandChallenge in Multi-Modal Video Identification Track in 2019
