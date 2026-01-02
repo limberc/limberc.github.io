@@ -30,20 +30,3 @@ The Moonshot: The "Internet of Knowledge"—A protocol where agents can "walk" a
 * **The "Bridge" Nodes (Entity Alignment)** Privacy-Preserving Entity Alignment (hashed embeddings) to identify "Bridge Nodes" (e.g., Gene TP53 exists in both the Hospital KG and the University KG). The system creates a virtual "Hyper-Edge" connecting these disparate graphs, creating a unified logical surface without data sharing.
 * **The "Walker" Agent (Neural Pathfinding)** Instead of RAG (retrieving text), the agent executes a Multi-Hop Reasoning Walk.
 * **The Compositional Proof** The Agent bundles these distributed hops into a Cryptographic Trace. It presents the final answer ("Molecule Y cures Patient X") along with the verified path of reasoning, which can be audited without revealing the full graphs.
-
-## Geometric Equivariant Agents: Physics-Aware Design
-The Moonshot: Create an LLM that "thinks" in continuous 3D space, not just discrete text tokens. It should be mathematically incapable of generating a structure that violates the laws of physics.
-
-**The Hard Problem**: Standard Transformers treat a yield curve like a string of text. They don't understand that if you rotate a molecule 90 degrees, it's still the same molecule (Invariance). This leads to massive data inefficiency and "hallucinated" matter.
-
-* **SE(3) Equivariant Attention**: You bake Euclidean symmetry (rotation/translation) directly into the attention mechanism. The agent calculates attention based on relative distances and angles, not absolute positions.
-* **Manifold Optimization**: Instead of optimizing in "pixel space," the agent optimizes on the "Riemannian Manifold" of valid structures. It surfs the energy landscape rather than guessing coordinates.
-
-## The Self-Correcting Knowledge Graph (SCKG)
-
-The Moonshot: Scientific literature is growing too fast (2 papers/minute). Much of it is contradictory (Paper A says X, Paper B says Not X). LLMs just hallucinate a middle ground.
-
-* **Conflict Detection**: An agent swarm ingests 10,000 arXiv/BioRxiv papers daily, extracting claims into a Triplet Graph.
-* **Epistemic Conflict Resolution**: When the graph detects a topology conflict (A contradicts B), it flags it.
-* **Agent Verification**: It spawns a "Judge Agent" to analyze the methodology of both papers and assign a confidence score, or propose a tie-breaking experiment.
-
