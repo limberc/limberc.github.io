@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I obtained by Ph.D. in Computer Science from the Department of Computer Science, University of Oxford. During my Ph.D. studies, I was gernoursly funded by Google Cloud Computing Research Grant, Alibaba Cloud (UK) Research Award, and Li Ka-shing Global Health Foundation. We are hiring research interns and looking for academic cooperation, please feel free to email me at zehua@flock.io.
+I obtained by Ph.D. in Computer Science from the Department of Computer Science, University of Oxford. During my Ph.D. studies, I was gernoursly funded by Google Cloud Computing Research Grant, Alibaba Cloud (UK) Research Award, and Li Ka-shing Global Health Foundation. We are hiring research interns and looking for academic cooperation, please feel free to email me at zehuac@ieee.org.
 
 We build autonomous agents that reason over distributed, high-stakes data (Bio & Finance) without ever centralizing it. We replace trust with cryptography and replace correlation with causal/structural reasoning. For more details, please refer to my [WORKING PROJECTS](https://limberc.site/WP1/).
 
