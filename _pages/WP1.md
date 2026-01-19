@@ -14,7 +14,7 @@ If you are interested in any of this project, please feel free to contact me. :)
 
 ## Proof-of-Learning (PoL): The ZK-Training Protocol
 
-The Moonshot: To create the "SSL/TLS" of Machine Learning—a standard protocol where a node proves it trained a model correctly on private data without revealing a single byte of that data.
+*The Moonshot*: To create the "SSL/TLS" of Machine Learning—a standard protocol where a node proves it trained a model correctly on private data without revealing a single byte of that data.
 
 **The Hard Problem**: Currently, Zero-Knowledge (ZK) protocols are slow and mostly work for inference (proving a model ran). Proving training (Backpropagation, SGD) involves millions of floating-point multiplications, which is computationally prohibitive for current ZK-SNARKs.
 
@@ -22,15 +22,15 @@ The Moonshot: To create the "SSL/TLS" of Machine Learning—a standard protocol 
 * **Optimized Circuits for Gradients**: We design custom Arithmetic Circuits specifically for Matrix Multiplication and ReLU derivatives, optimizing the "constraints per step" (the metric of ZK speed).
 * **Verifiable Randomness**: Use an on-chain Verifiable Random Function (VRF) to seed the SGD batches, ensuring the node didn't cherry-pick "easy" data to fake a high loss reduction.
 
-## Decentralized-MoE: The Inter-Institutional Mixture of Experts
+## The Holographic Neural Fabric
 
-The Moonshot: A "Global Brain" where the "Neurons" are hospitals. A single logical LLM where the parameters are physically distributed across 1,0000 institutions.
+*The Moonshot*: Construct a single, coherent, trillion-parameter intelligence that "lives" purely on the dormant, fragmented compute of the world’s existing infrastructure—consumer GPUs, hospital servers, and idle research workstations—connected only by standard public internet.
 
-**The Hard Problem**: Latency. If every token generation requires a network call to 5 different hospitals, the model will be unusably slow. Security. LLM can have biased and can even be weaponized.
+**The Hard Problem**: To maintain a unified global intelligence across a network where **physical latency** fractures real-time inference, **localized learning** drives mathematical divergence, and **hardware asymmetry** destabilizes synchronization.
 
-* **Hierarchical Gating**: A lightweight "Router Model" sits on the user's device. It decides: "Is this a generic biology question (Local Inference)? Or a rare cancer question (Route to Mayo Clinic Node)?"
-* **Asynchronous Expert Execution**: Unlike standard MoE which waits for all experts, Swarm-MoE uses "Speculative Decoding." It guesses the expert's likely output while waiting for the real encrypted embedding to return from the hospital.
-* **Privacy-Preserving Routing**: The Router doesn't send raw text to the hospital; it sends a Homomorphically Encrypted Embedding. The hospital computes the "Expert Layer" on encrypted data and returns the result.
+* **Chronos**: The speed of light imposes a hard, immutable limit on distributed intelligence, paralyzing model execution whenever a neural network spans across geography. To cheat this physics, the Chronos Module decouples logical thought from network transmission by using lightweight local "ghost" models to hallucinate the outputs of remote experts instantly, only consulting the network when a compressed "Holographic Sketch" detects a deviation from reality. This architectural sleight-of-hand effectively erases the latency penalty of the open internet, allowing a global mesh to infer with the responsiveness of a single local chip.
+* **Spectral State Synchronization**: In a decentralized system where independent nodes learn from private, local data, their internal mathematical definitions inevitably drift apart until they are speaking mutually unintelligible languages. This module prevents this "Tower of Babel" scenario by continuously projecting local weight updates into a lower-dimensional "Spectral Space," broadcasting these tiny mathematical sketches to the rest of the network as a unifying signal. This mechanism acts as a form of mathematical gravity, constantly pulling thousands of isolated, evolving models back toward a coherent global consensus without ever clogging the bandwidth pipes with raw heavy parameters.
+* **Fluid Consensus**: A permissionless grid is defined by chaos, where state-of-the-art supercomputers must collaborate with aging legacy servers that cannot possibly march in lockstep. This module manages this hardware asymmetry by implementing a staleness-aware aggregation protocol that assigns a "Time-Decay Weight" to incoming signals, mathematically dampening the impact of slow, outdated updates while still integrating their useful knowledge. This allows the fabric to function as a fluid, asynchronous system where any device can join, contribute, or drop out at any time without ever stalling the global training run or destabilizing the collective intelligence.
 
 **Relevant Publications**:
 
@@ -39,20 +39,10 @@ The Moonshot: A "Global Brain" where the "Neurons" are hospitals. A single logic
 
 ## Nash-Equilibrium Data Valuation: The Shapley Protocol
 
-The Moonshot: Solving the "Free Rider Problem." In current federated learning, a hospital that contributes junk data gets the same model as a hospital that contributes gold. This protocol automatically pays data owners based on the exact marginal utility of their contribution.
+*The Moonshot*: Solving the "Free Rider Problem." In current federated learning, a hospital that contributes junk data gets the same model as a hospital that contributes gold. This protocol automatically pays data owners based on the exact marginal utility of their contribution.
 
 **The Hard Problem**: Calculating the true Shapley Value is $O(N!)$—impossible to compute for thousands of nodes.
 
 * **Gradient-Based Influence Functions**: Instead of retraining the model $N$ times to measure value, we approximate value by analyzing the cosine similarity of a node's gradient update relative to the "Gold Standard" validation set held by the protocol.
 * **The Payment Stream**: A smart contract layer (L2) that acts as a "Streaming Payment" engine. Every time a node sends a gradient that reduces the global loss, micro-payments flow to their wallet. If they send noise, they get slashed (fined).
 * **Equilibrium Discovery**: We prove mathematically that "Honest Contribution" is the Nash Equilibrium of this game—cheating is always less profitable than contributing.
-
-## The Holographic Gradient: Bandwidth-Efficient Learning
-
-The Moonshot: Training a 1 Trillion parameter model on a network of consumer-grade internet connections (e.g., connecting Starlink satellites or home GPUs).
-
-**The Hard Problem**: Bandwidth. Sending 1TB of gradients every second is impossible for hospitals or home nodes.
-
-* **CountSketch / TensorSketch**: We don't send the gradient. We send a "Sketch"—a randomized projection of the gradient into a tiny subspace.
-* **Error Feedback Memory**: The "compression error" (the part of the gradient threw away) is stored locally in a "Memory Buffer" and added to the next update. This ensures that over time, all information is eventually transmitted, guaranteeing convergence (unlike simple quantization).
-* **"Holographic" Reconstruction**: The central aggregator receives "sketches" from 1,000 nodes and mathematically reconstructs the high-fidelity global gradient, leveraging the fact that noise cancels out at scale.
