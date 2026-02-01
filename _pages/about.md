@@ -19,9 +19,10 @@ Currently, I am leading AI research at FLock.io, where I focus on advancing dece
 
 ## Selected Awards:
 
-- Championship at ACM. MM GrandChallenge in Multi-Modal Video Identification Track in 2019
-- Championship at AWS Self-driving car racing challenge in 2021
-- Third Prize at NeurIPS 2023: [Open Catalyst Challenge](https://opencatalystproject.org/challenge.html)
-- International Joint Conference on Artificial Intelligence (IJCAI 2022) Travel Grant
+- WI-IAT Best Application Award - [Scaling Decentralized Learning with FLock](https://arxiv.org/abs/2507.15349)
 - AAAI 2024 Global Competition on Math Problem Solving and Reasoning Track 1 - Solution without API (3rd Prize) and Track 2 - Solution without API (2nd Prize).
 - Second Prize at KDD Cup 2024 - OAG Challenge AQA.
+- Third Prize at NeurIPS 2023: [Open Catalyst Challenge](https://opencatalystproject.org/challenge.html)
+- International Joint Conference on Artificial Intelligence (IJCAI 2022) Travel Grant
+- Championship at AWS Self-driving car racing challenge in 2021
+- Championship at ACM. MM GrandChallenge in Multi-Modal Video Identification Track in 2019
