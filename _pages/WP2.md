@@ -23,4 +23,4 @@ The Moonshot: Standard LLMs are probabilistic—they 'guess' the next token. We 
 
 **Relevant Publications**:
 
-1. Zehua Cheng, Wei Dai, Wenhu Zhang, Thomas Lukasiewicz, Jiahao Sun. "Visual Set Program Synthesizer". In Procedings of IEEE International Conference on Multimedia and Expo 2026. [Paper](https://arxiv.org/pdf/2603.15997)
+1. **Zehua Cheng**, Wei Dai, Wenhu Zhang, Thomas Lukasiewicz, Jiahao Sun. "Visual Set Program Synthesizer". In Procedings of IEEE International Conference on Multimedia and Expo 2026. [Paper](https://arxiv.org/pdf/2603.15997)
