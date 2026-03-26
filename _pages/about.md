@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I obtained by Ph.D. in Computer Science from the Department of Computer Science, University of Oxford. We are hiring research interns and looking for academic cooperation, please feel free to email me at zehuac@ieee.org.
+I obtained by Ph.D. in Computer Science from the Department of Computer Science, University of Oxford.
 
 We build autonomous agents that reason over distributed, high-stakes data (Bio & Finance) without ever centralizing it. We replace trust with cryptography and replace correlation with causal/structural reasoning. For more details, please refer to my [WORKING PROJECTS](https://limberc.site/WP1/).
 
@@ -18,6 +18,8 @@ Currently, I am leading AI research at FLock.io, where I focus on advancing dece
 03/2026 - One paper for [SIE](https://limberc.site/WP2/) has been accepted in ICME 2026! Congratulations to ALL Authors!
 
 03/2026 - I am honored to announce that I will be serving as Vice Chair for the 6th Digital Twin International Conference (DigiTwin 2026). The event will be held in a hybrid format from August 4–8, 2026, at the University of Oxford, UK. DigiTwin is a premier global platform dedicated to advancing digital twin concepts, technologies, and interdisciplinary applications. I look forward to helping organize this prestigious event and collaborating with leading researchers and industry experts. Learn more about the conference here: https://idea-global.net/digitwin2026/index.aspx
+
+12/2025 - I received the **Best Paper Award (Industrial)** from WI-IAT 2025! Congratulations to ALL Authors!
 
 ## Open Opportunities:
 
