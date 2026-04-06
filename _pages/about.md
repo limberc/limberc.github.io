@@ -15,11 +15,7 @@ Currently, I am leading AI research at FLock.io, where I focus on advancing dece
 
 ## News
 
-04/2026 - TWO papers for [SIE](https://limberc.site/WP2/) have been accepted in *ACL 2026*! Congratulations to ALL Authors!
-
-04/2026 - One Paper for [Infra](https://limberc.site/WP1/) of Efficient Decentralied Learning has been accepted in ICDCS 2026! Congratulations to ALL Authors!
-
-03/2026 - One paper for [Infra](https://limberc.site/WP1/) of Efficient Decentralied Learning has been acceped in *ICS 2026*! Congratulations to ALL Authors!
+04/2026 - ONE papers for [SIE](https://limberc.site/WP2/) have been accepted in *ACL 2026*! Congratulations to ALL Authors!
 
 03/2026 - One (And the first) paper for [SIE](https://limberc.site/WP2/) has been accepted in *ICME 2026*! Congratulations to ALL Authors!
 
