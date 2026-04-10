@@ -15,11 +15,11 @@ Currently, I am leading AI research at FLock.io, where I focus on advancing dece
 
 ## News
 
-04/2026 - ONE papers for [SIE](https://limberc.site/WP2/) have been accepted in *ACL 2026*! Congratulations to ALL Authors!
+04/2026 - TWO papers for [SIE](https://limberc.site/sie/) have been accepted in *ACL 2026*! (One Main, One Findings) Congratulations to ALL Authors!
 
 03/2026 - Invited to serve as Area Chair for [NeurIPS 2026](https://neurips.cc/).
 
-03/2026 - One (And the first) paper for [SIE](https://limberc.site/WP2/) has been accepted in *ICME 2026*! Congratulations to ALL Authors!
+03/2026 - One (And the first) paper for [SIE](https://limberc.site/sie/) has been accepted in *ICME 2026*! Congratulations to ALL Authors!
 
 03/2026 - I am honored to announce that I will be serving as Vice Chair for the 6th Digital Twin International Conference (DigiTwin 2026). The event will be held in a hybrid format from August 4–8, 2026, at the University of Oxford, UK. DigiTwin is a premier global platform dedicated to advancing digital twin concepts, technologies, and interdisciplinary applications. I look forward to helping organize this prestigious event and collaborating with leading researchers and industry experts. Learn more about the conference [here](https://idea-global.net/digitwin2026/index.aspx).
 
