@@ -41,4 +41,4 @@ Currently, I am leading AI research at FLock.io, where I focus on advancing dece
 
 ## OMT
 
-Beside the research in AI/ML, I also enjoyed working in Differential Geometry. Here are some of my latest research. I conduct these research purely out of interest (**NO** KPIs involved). For me, having enough time to conduct this research independently is very important.
+Beside the research in AI/ML, I also enjoyed working in Differential Geometry. Here are some of my latest research. I conduct these research purely out of interest (**NO** KPIs involved). For me, having enough time to conduct this research independently is very important. If you are interested about these proofs, please read [HERE](https://limberc.site/diff-geo/).
