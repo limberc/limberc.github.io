@@ -11,7 +11,7 @@ I obtained by Ph.D. in Computer Science from the Department of Computer Science,
 
 We build autonomous agents that reason over distributed, high-stakes data (Bio & Finance) without ever centralizing it. We replace trust with cryptography and replace correlation with causal/structural reasoning. For more details, please refer to my [WORKING PROJECTS](https://limberc.site/WP1/).
 
-Currently, I am leading AI research at FLock.io, where I focus on advancing decentralized ML systems. I am now cooperate with [Prof. Jim Davies](https://www.bdi.ox.ac.uk/Team/jim-davies) and [Prof Ivan Martinovic](https://www.cs.ox.ac.uk/people/ivan.martinovic/) from University of Oxford.
+Currently, I am leading AI research at FLock.io, where I focus on advancing decentralized ML systems. I am now cooperate with [Prof. Jim Davies](https://www.bdi.ox.ac.uk/Team/jim-davies) and [Prof Ivan Martinovic](https://www.cs.ox.ac.uk/people/ivan.martinovic/) from University of Oxford. 
 
 ## News
 
@@ -38,3 +38,7 @@ Currently, I am leading AI research at FLock.io, where I focus on advancing dece
 - International Joint Conference on Artificial Intelligence (IJCAI 2022) Travel Grant
 - Championship at AWS Self-driving car racing challenge in 2021
 - Championship at ACM. MM GrandChallenge in Multi-Modal Video Identification Track in 2019
+
+## OMT
+
+Beside the research in AI/ML, I also enjoyed working in Differential Geometry. Here are some of my latest research. I conduct these research purely out of interest (**NO** KPIs involved). For me, having enough time to conduct this research independently is very important.
