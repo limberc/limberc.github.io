@@ -1,17 +1,15 @@
 ---
 title: "Causal & Geometric Reasoning"
-permalink: /WP2/
+permalink: /sie/
 ---
 
 We build autonomous agents that reason over distributed, high-stakes data (Bio & Finance) without ever centralizing it. We replace trust with cryptography and replace correlation with causal/structural reasoning.
 
 If you are interested in any of this project, please feel free to contact me. :)
 
-# Causal & Geometric Reasoning
+# The Structural Inference Engine (SIE)
 
 > We move from "Probabilistic Token Prediction" to "Structural Reasoning." Our agents generate solutions constrained by geometric symmetry (Physics) and causal graphs (Logic).
-
-## The Structural Inference Engine (SIE)
 
 The Moonshot: Standard LLMs are probabilistic—they 'guess' the next token. We are building the Deterministic Structural Engine—an LLM that generates data (molecules, contracts, causal graphs) that is mathematically guaranteed to obey the strict schema and semantic constraints of the real world.
 
@@ -24,4 +22,5 @@ The Moonshot: Standard LLMs are probabilistic—they 'guess' the next token. We 
 **Relevant Publications**:
 
 1. **Zehua Cheng**, Wei Dai, Wenhu Zhang, Thomas Lukasiewicz, Jiahao Sun. "Visual Set Program Synthesizer". In Procedings of IEEE International Conference on Multimedia and Expo 2026. [Paper](https://arxiv.org/pdf/2603.15997)
-1. **Zehua Cheng**, Wei Dai, Jiahao Sun, Thomas Lukasiewicz. "*GraphSynth: Resolving the Diversity-Reliability Trade-off with Probabilistic Factor Graphs*" In Procedings of ACL 2026.
+2. **Zehua Cheng**, Wei Dai, Jiahao Sun, Thomas Lukasiewicz. "*GraphSynth: Resolving the Diversity-Reliability Trade-off with Probabilistic Factor Graphs*" In Procedings of ACL 2026.
+3. **Zehua Cheng**, Wei Dai, Jiahao Sun, Thomas Lukasiewicz. "*CircuitSynth: Reliable Synthetic Data Generation*". In Procedings of ACL Findings 2026.

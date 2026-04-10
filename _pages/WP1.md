@@ -1,6 +1,6 @@
 ---
 title: "Infra"
-permalink: /WP1/
+permalink: /infra/
 author_profile: true
 ---
 

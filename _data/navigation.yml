@@ -11,7 +11,9 @@ main:
     # url: /teaching/    
   - title: "Blog"
     url: /blogs/
-  - title: "Working Project - Infra"
-    url: /WP1/
-  - title: "Working Project - Reasoning"
-    url: /WP2/
+  - title: "Building - Infra"
+    url: /infra/
+  - title: "Building - SIE"
+    url: /sie/
+  - title: "OMT - Differential Geometry"
+    url: /diff-geo/
