@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I obtained by Ph.D. in Computer Science from the Department of Computer Science, University of Oxford.
+I obtained my Ph.D. in Computer Science from the Department of Computer Science, University of Oxford.
 
 We build autonomous agents that reason over distributed, high-stakes data (Bio & Finance) without ever centralizing it. We replace trust with cryptography and replace correlation with causal/structural reasoning. For more details, please refer to my [WORKING PROJECTS](https://limberc.site/WP1/).
 
