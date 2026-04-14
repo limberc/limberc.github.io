@@ -15,5 +15,3 @@ main:
     url: /infra/
   - title: "Building - SIE"
     url: /sie/
-  - title: "OMT - Differential Geometry"
-    url: /diff-geo/
