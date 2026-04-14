@@ -23,4 +23,4 @@ The Moonshot: Standard LLMs are probabilistic—they 'guess' the next token. We 
 
 1. **Zehua Cheng**, Wei Dai, Wenhu Zhang, Thomas Lukasiewicz, Jiahao Sun. "Visual Set Program Synthesizer". In Procedings of IEEE International Conference on Multimedia and Expo 2026. [Paper](https://arxiv.org/pdf/2603.15997)
 2. **Zehua Cheng**, Wei Dai, Jiahao Sun, Thomas Lukasiewicz. "*GraphSynth: Resolving the Diversity-Reliability Trade-off with Probabilistic Factor Graphs*" In Procedings of ACL 2026.
-3. **Zehua Cheng**, Wei Dai, Jiahao Sun, Thomas Lukasiewicz. "*CircuitSynth: Reliable Synthetic Data Generation*". In Procedings of ACL Findings 2026.
+3. **Zehua Cheng**, Wei Dai, Jiahao Sun, Thomas Lukasiewicz. "*CircuitSynth: Reliable Synthetic Data Generation*". In Procedings of ACL Findings 2026. [Paper](https://arxiv.org/abs/2604.10114)
