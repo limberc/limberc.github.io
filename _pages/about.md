@@ -15,7 +15,9 @@ Currently, I am leading AI research at FLock.io, where I focus on advancing dece
 
 ## News
 
-04/2026 - TWO papers for [SIE](https://limberc.site/sie/) have been accepted in *ACL 2026*! (One Main, One Findings) Congratulations to ALL Authors!
+04/2026 - ONE paper for [HNF](https://limberc.site/infra/) has been accepted in ICMR 2026 (Long)! Congratulations to ALL Authors!
+
+04/2026 - TWO papers for [SIE](https://limberc.site/sie/) have been accepted in *ACL 2026*! (One Main, One Findings)! Congratulations to ALL Authors!
 
 03/2026 - Invited to serve as Area Chair for [NeurIPS 2026](https://neurips.cc/).
 
