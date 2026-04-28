@@ -29,6 +29,8 @@ Currently, I am leading AI research at FLock.io, where I focus on advancing dece
 
 03/2026 - I am honored to announce that I will be serving as Vice Chair for the 6th Digital Twin International Conference (DigiTwin 2026). The event will be held in a hybrid format from August 4–8, 2026, at the University of Oxford, UK. DigiTwin is a premier global platform dedicated to advancing digital twin concepts, technologies, and interdisciplinary applications. I look forward to helping organize this prestigious event and collaborating with leading researchers and industry experts. Learn more about the conference [here](https://idea-global.net/digitwin2026/index.aspx).
 
+01/2026 - Invited to serve as Area Chair for [ACL 2026](https://2026.aclweb.org/).
+
 12/2025 - I received the 🏆  **Best Paper Award (Industrial)** from WI-IAT 2025! Congratulations to ALL Authors!
 
 ## Open Opportunities:
