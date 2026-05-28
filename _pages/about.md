@@ -7,13 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-I obtained my Ph.D. in Computer Science from the Department of Computer Science, University of Oxford. I am currently a [Researcher](https://www.cs.ox.ac.uk/people/zehua.cheng/) at University of Oxford and Adjunct Professor at Korea University.
+I obtained my Ph.D. in Computer Science from the Department of Computer Science, University of Oxford. I am currently a [Associate Fellow](https://www.cs.ox.ac.uk/people/zehua.cheng/) at University of Oxford and Adjunct Professor at Korea University.
 
 We build autonomous agents that reason over distributed, high-stakes data (Bio & Finance) without ever centralizing it. We replace trust with cryptography and replace correlation with causal/structural reasoning. For more details, please refer to my [WORKING PROJECTS](https://limberc.site/WP1/).
 
 Currently, I am leading AI research at FLock.io, where I focus on advancing decentralized ML systems. I am now cooperate with [Prof. Jim Davies](https://www.bdi.ox.ac.uk/Team/jim-davies) and [Prof Ivan Martinovic](https://www.cs.ox.ac.uk/people/ivan.martinovic/) from University of Oxford.
 
 ## News
+
+05/2026 - THREE papers for [SIE](https://limberc.site/sie/) accepted for ECML-PKDD 2026!  Congratulations to ALL Authors!
 
 04/2026 - Invited Guest Lecture on *AI Safety and Governance in the Era of LLM* at COMP60272 AI Security & Privacy at the University of Manchester.
 

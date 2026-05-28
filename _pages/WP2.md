@@ -21,7 +21,18 @@ The Moonshot: Standard LLMs are probabilistic—they 'guess' the next token. We 
 
 **Relevant Publications**:
 
-1. **Zehua Cheng**, Wei Dai, Wenhu Zhang, Thomas Lukasiewicz, Jiahao Sun. "Visual Set Program Synthesizer". In Procedings of IEEE International Conference on Multimedia and Expo 2026. [Paper](https://arxiv.org/pdf/2603.15997)
-2. **Zehua Cheng**, Wei Dai, Jiahao Sun, Thomas Lukasiewicz. "*GraphSynth: Resolving the Diversity-Reliability Trade-off with Probabilistic Factor Graphs*" In Procedings of ACL 2026.
-3. **Zehua Cheng**, Wei Dai, Jiahao Sun, Thomas Lukasiewicz. "*CircuitSynth: Reliable Synthetic Data Generation*". In Procedings of ACL Findings 2026. [Paper](https://arxiv.org/abs/2604.10114)
-4. **Zehua Cheng**, Wei Dai, Jiahao Sun, Thomas Lukasiewicz. "CasualSynth: Generating Structurally Sound Synthetic Data."Arxiv [Paper](https://arxiv.org/abs/2605.17528)
+1. **Zehua Cheng**, Wei Dai, Wenhu Zhang, Thomas Lukasiewicz, and Jiahao Sun. "Visual Set Program Synthesizer". In Procedings of IEEE International Conference on Multimedia and Expo 2026. [Paper](https://arxiv.org/pdf/2603.15997)
+
+2. **Zehua Cheng**, Wei Dai, Jiahao Sun, and Thomas Lukasiewicz. "*GraphSynth: Resolving the Diversity-Reliability Trade-off with Probabilistic Factor Graphs*" In Procedings of ACL 2026.
+
+3. **Zehua Cheng**, Wei Dai, Jiahao Sun, and Thomas Lukasiewicz. "*CircuitSynth: Reliable Synthetic Data Generation*". In Procedings of ACL Findings 2026. [Paper](https://arxiv.org/abs/2604.10114)
+
+4. **Zehua Cheng**, Wei Dai, Jiahao Sun, and Thomas Lukasiewicz. "*CasualSynth: Generating Structurally Sound Synthetic Data*."Arxiv [Paper](https://arxiv.org/abs/2605.17528)
+
+5. **Zehua Cheng**, Wei Dai, Jiahao Sun, and Thomas Lukasiewicz. "*Imbuing Large Language Models with Bidirectional Logic for Robust Chain Repair*". In Procedings of ECML-PKDD 2026.
+
+6. **Zehua Cheng**, Wei Dai, Jiahao Sun, and Thomas Lukasiewicz. "*HoloCoT: Holographic Chain-of-Thought via Orthogonal Subspace Anchoring for Persistent Long-Horizon Reasoning*". In Procedings of ECML-PKDD 2026.
+
+7. **Zehua Cheng**, Wei Dai, and Jiahao Sun. "*Invariant Gradient Alignment for Robust Reasoning Distillation*". In Procedings of ECML-PKDD 2026.
+
+   
