@@ -35,4 +35,4 @@ The Moonshot: Standard LLMs are probabilistic—they 'guess' the next token. We 
 
 7. **Zehua Cheng**, Wei Dai, and Jiahao Sun. "*Invariant Gradient Alignment for Robust Reasoning Distillation*". In Procedings of ECML-PKDD 2026.
 
-   
+8. **Zehua Cheng**, Wei Dai, and Jiahao Sun. "*Equivariant Neural Belief Propagation*". In Procedings of UAI 2026.
