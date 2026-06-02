@@ -7,7 +7,7 @@ We build autonomous agents that reason over distributed, high-stakes data (Bio &
 
 If you are interested in any of this project, please feel free to contact me. :)
 
-# The Structural Inference Engine (SIE)
+# The Structured Inference Engine (SIE)
 
 > We move from "Probabilistic Token Prediction" to "Structural Reasoning." Our agents generate solutions constrained by geometric symmetry (Physics) and causal graphs (Logic).
 
