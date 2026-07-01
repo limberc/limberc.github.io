@@ -23,6 +23,8 @@ Currently, I am leading AI research at FLock.io, where I focus on advancing dece
 
 04/2026 - Invited Guest Lecture on *AI Safety and Governance in the Era of LLM* at COMP60272 AI Security & Privacy at the University of Manchester.
 
+04/2026 - Invited to serve as Area Chair for [EMNLP 2026](https://2026.emnlp.org/).
+
 04/2026 - Invited Lecture on [*Building Reliable and Trustworthy LLM*](https://security.korea.ac.kr/m06_04/105) at Korea University!
 
 04/2026 - ONE paper for [HNF](https://limberc.site/infra/) has been accepted in ICMR 2026 (Long)! Congratulations to ALL Authors!
