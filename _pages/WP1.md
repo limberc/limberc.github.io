@@ -37,13 +37,3 @@ If you are interested in any of this project, please feel free to contact me. :)
 2. **Zehua Cheng**, Manying Zhang, Jiahao Sun, and Wei Dai. "*On weaponization-resistant large language models with prospect theoretic alignment*." In Proceedings of the 31st International Conference on Computational Linguistics, pp. 10309-10324. 2025. [[Paper]](https://aclanthology.org/2025.coling-main.687.pdf)
 3. **Zehua Cheng**, Wei Dai, and Jiahao Sun. "*Identity-Decoupled Anonymization for Visual Evidence in Multi-modal Retrieval-Augmented Generation*". In Proceedings of 16th ACM International Conference on Multimedia Retrieval 2026.
 4. **Zehua Cheng**, Wei Dai, and Jiahao Sun. "*Decentralized Learning with Communication-Efficient Learned Gradient Sketches*". In Proceedings of International Conference on Parallel Processing 2026.
-
-## Nash-Equilibrium Data Valuation: The Shapley Protocol
-
-*The Moonshot*: Solving the "Free Rider Problem." In current federated learning, a hospital that contributes junk data gets the same model as a hospital that contributes gold. This protocol automatically pays data owners based on the exact marginal utility of their contribution.
-
-**The Hard Problem**: Calculating the true Shapley Value is $O(N!)$—impossible to compute for thousands of nodes.
-
-* **Gradient-Based Influence Functions**: Instead of retraining the model $N$ times to measure value, we approximate value by analyzing the cosine similarity of a node's gradient update relative to the "Gold Standard" validation set held by the protocol.
-* **The Payment Stream**: A smart contract layer (L2) that acts as a "Streaming Payment" engine. Every time a node sends a gradient that reduces the global loss, micro-payments flow to their wallet. If they send noise, they get slashed (fined).
-* **Equilibrium Discovery**: We prove mathematically that "Honest Contribution" is the Nash Equilibrium of this game—cheating is always less profitable than contributing.
