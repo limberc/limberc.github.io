@@ -15,9 +15,11 @@ Currently, I am leading AI research at FLock.io, where I focus on advancing dece
 
 ## News
 
+07/2026 - TWO papers for [SIE](https://limberc.site/sie/) accepted for ACM MM 2026!  Congratulations to ALL Authors!
+
 06/2026 - ONE paper for [HNF](https://limberc.site/infra/) accepted for ICPP 2026! Congratulations to ALL Authors!
 
-05/2026 - ONE paper for [SIE](https://limberc.site/sie/) accepted for UAI 2026 (Oral)! Congratulations to ALL Authors!
+05/2026 - ONE paper for [SIE](https://limberc.site/sie/) accepted for UAI 2026 **(Oral)**! Congratulations to ALL Authors!
 
 05/2026 - THREE papers for [SIE](https://limberc.site/sie/) accepted for ECML-PKDD 2026!  Congratulations to ALL Authors!
 
