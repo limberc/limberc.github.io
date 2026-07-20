@@ -42,7 +42,7 @@ At the heart of SIE are three complementary mechanisms:
 
 1. **Zehua Cheng**, Wei Dai, Wenhu Zhang, Thomas Lukasiewicz, and Jiahao Sun. "Visual Set Program Synthesizer". In Proceedings of IEEE International Conference on Multimedia and Expo 2026. [Paper](https://arxiv.org/pdf/2603.15997)
 
-2. **Zehua Cheng**, Wei Dai, Jiahao Sun, and Thomas Lukasiewicz. "*GraphSynth: Resolving the Diversity-Reliability Trade-off with Probabilistic Factor Graphs*". In Proceedings of ACL 2026.
+2. **Zehua Cheng**, Wei Dai, Jiahao Sun, and Thomas Lukasiewicz. "*GraphSynth: Resolving the Diversity-Reliability Trade-off with Probabilistic Factor Graphs*". In Proceedings of ACL 2026. [Paper](https://aclanthology.org/2026.acl-long.1969/)
 
 3. **Zehua Cheng**, Wei Dai, Jiahao Sun, and Thomas Lukasiewicz. "*CircuitSynth: Reliable Synthetic Data Generation*". In Proceedings of ACL Findings 2026. [Paper](https://arxiv.org/abs/2604.10114)
 
