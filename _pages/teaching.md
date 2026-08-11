@@ -4,7 +4,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-I teach **Secure AI Systems** at the [School of Cybersecurity](https://security.korea.ac.kr/), Korea University, where I am an Adjunct Professor.
+I teach **Secure AI Systems (CYD632)** at the [School of Cybersecurity](https://security.korea.ac.kr/), Korea University, where I am an Adjunct Professor.
 
 # Secure AI Systems
 
