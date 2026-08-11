@@ -9,13 +9,13 @@ redirect_from:
 
 I obtained my Ph.D. in Computer Science from the Department of Computer Science, University of Oxford. I am currently a [Associate Fellow](https://www.cs.ox.ac.uk/people/zehua.cheng/) at University of Oxford and Adjunct Professor at Korea University.
 
-We build autonomous agents that reason over distributed, high-stakes data (Bio & Finance) without ever centralizing it. We replace trust with cryptography and replace correlation with causal/structural reasoning. For more details, please refer to my [WORKING PROJECTS](https://limberc.site/WP1/).
+We build autonomous agents that reason over distributed, high-stakes data (Bio & Finance) without ever centralizing it. We replace trust with cryptography and replace correlation with causal/structural reasoning. For more details, please refer to my [WORKING PROJECTS](https://limberc.site/WP1/). We are working very close with top-tier LLM teams.
 
 Currently, I am leading AI research at FLock.io, where I focus on advancing decentralized ML systems. I am now cooperate with [Prof. Jim Davies](https://www.bdi.ox.ac.uk/Team/jim-davies) and [Prof Ivan Martinovic](https://www.cs.ox.ac.uk/people/ivan.martinovic/) from University of Oxford.
 
 ## News
 
-07/2026 - TWO papers for [SIE](https://limberc.site/sie/) accepted for ACM MM 2026!  Congratulations to ALL Authors!
+07/2026 - Invited to serve as Area Chair for [EACL 2027](https://2027.eacl.org/) (ARR August 2026).
 
 07/2026 - Invited to serve as Area Chair for [SIGKDD 2027](https://kdd2027.kdd.org/).
 
@@ -27,7 +27,7 @@ Currently, I am leading AI research at FLock.io, where I focus on advancing dece
 
 04/2026 - Invited Guest Lecture on *AI Safety and Governance in the Era of LLM* at COMP60272 AI Security & Privacy at the University of Manchester.
 
-04/2026 - Invited to serve as Area Chair for [EMNLP 2026](https://2026.emnlp.org/).
+04/2026 - Invited to serve as Area Chair for [EMNLP 2026](https://2026.emnlp.org/) (ARR May 2026).
 
 04/2026 - Invited Lecture on [*Building Reliable and Trustworthy LLM*](https://security.korea.ac.kr/m06_04/105) at Korea University!
 
