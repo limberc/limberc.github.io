@@ -55,3 +55,13 @@ At the heart of SIE are three complementary mechanisms:
 7. **Zehua Cheng**, Wei Dai, and Jiahao Sun. "*Invariant Gradient Alignment for Robust Reasoning Distillation*". In Proceedings of ECML-PKDD 2026.
 
 8. **Zehua Cheng**, Wei Dai, and Jiahao Sun. "*Equivariant Neural Belief Propagation*". In Proceedings of UAI 2026.
+
+9. **Zehua Cheng**, Wei Dai, and Jiahao Sun. Bethe Consensus Decoding: Joint Inference on Empirical Pairwise Factor Graphs for Structured LLM Outputs. In Proceedings of CIKM 2026. 
+
+10. **Zehua Cheng**, Wei Dai, and Jiahao Sun. Curvature Graph Mergeability: Predicting Model Compatibility from Per-Layer Hessian Geometry. In Proceedings of CIKM 2026. 
+
+11. **Zehua Cheng** Wei Dai, and Jiahao Sun. Cavity-Calibrated Prediction Sets. In Proceedings of CIKM 2026. 
+
+12. **Zehua Cheng**, Wei Dai, and Jiahao Sun. Gradient Interaction Graph Optimization. In Proceedings of CIKM 2026. 
+
+13. **Zehua Cheng**, Wei Dai, and Jiahao Sun. In-Context Learning as Approximate Belief Propagation. In Proceedings of CIKM 2026.
