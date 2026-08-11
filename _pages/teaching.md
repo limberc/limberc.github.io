@@ -8,7 +8,7 @@ I teach **Secure AI Systems** at the [School of Cybersecurity](https://security.
 
 # Secure AI Systems
 
-*Graduate course · School of Cybersecurity, Korea University · Spring 2026 (first offering)*
+*Graduate course · School of Cybersecurity, Korea University · Fall 2026 (first offering)*
 
 The course addresses, with the rigour a graduate program demands, the question of how to design, build, deploy, evaluate, and govern systems whose central component is a large language model. Machine-learning training teaches the mathematics of optimization and the practice of empirical evaluation, but not the adversarial mindset by which systems are tested against motivated attackers. Security training teaches the adversarial mindset, threat modelling, and structured disclosure, but not the mechanics of stochastic systems whose specification is the joint product of training data, training procedure, and runtime configuration. A serious treatment of LLM systems requires both — and that requirement is the motivation for the course.
 
