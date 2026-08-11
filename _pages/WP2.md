@@ -56,12 +56,14 @@ At the heart of SIE are three complementary mechanisms:
 
 8. **Zehua Cheng**, Wei Dai, and Jiahao Sun. "*Equivariant Neural Belief Propagation*". In Proceedings of UAI 2026.
 
-9. **Zehua Cheng**, Wei Dai, and Jiahao Sun. "*Bethe Consensus Decoding: Joint Inference on Empirical Pairwise Factor Graphs for Structured LLM Outputs*". In Proceedings of CIKM 2026.
+9. **Zehua Cheng**, Wei Dai, and Jiahao Sun. "*Hyperbolic Belief Propagation*". In Proceedings of UAI 2026. [**ORAL**]
 
-10. **Zehua Cheng**, Wei Dai, and Jiahao Sun. "*Curvature Graph Mergeability: Predicting Model Compatibility from Per-Layer Hessian Geometry*". In Proceedings of CIKM 2026.
+10. **Zehua Cheng**, Wei Dai, and Jiahao Sun. "*Bethe Consensus Decoding: Joint Inference on Empirical Pairwise Factor Graphs for Structured LLM Outputs*". In Proceedings of CIKM 2026.
 
-11. **Zehua Cheng**, Wei Dai, and Jiahao Sun. "*Cavity-Calibrated Prediction Sets: Single-Pass Conformal Inference for Structured Outputs over Graphical Models*". In Proceedings of CIKM 2026.
+11. **Zehua Cheng**, Wei Dai, and Jiahao Sun. "*Curvature Graph Mergeability: Predicting Model Compatibility from Per-Layer Hessian Geometry*". In Proceedings of CIKM 2026.
 
-12. **Zehua Cheng**, Wei Dai, and Jiahao Sun. "*Gradient Interaction Graph Optimization*". In Proceedings of CIKM 2026.
+12. **Zehua Cheng**, Wei Dai, and Jiahao Sun. "*Cavity-Calibrated Prediction Sets: Single-Pass Conformal Inference for Structured Outputs over Graphical Models*". In Proceedings of CIKM 2026.
 
-13. **Zehua Cheng**, Wei Dai, and Jiahao Sun. "*In-Context Learning as Belief Propagation*". In Proceedings of CIKM 2026.
+13. **Zehua Cheng**, Wei Dai, and Jiahao Sun. "*Gradient Interaction Graph Optimization*". In Proceedings of CIKM 2026.
+
+14. **Zehua Cheng**, Wei Dai, and Jiahao Sun. "*In-Context Learning as Belief Propagation*". In Proceedings of CIKM 2026.
