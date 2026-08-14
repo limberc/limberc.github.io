@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I obtained my Ph.D. in Computer Science from the Department of Computer Science, University of Oxford. I am currently a [Associate Fellow](https://www.cs.ox.ac.uk/people/zehua.cheng/) at University of Oxford and Adjunct Professor at Korea University.
+I obtained my Ph.D. in Computer Science from the Department of Computer Science, University of Oxford. I am currently a Professor at Korea University and an [Associate Fellow](https://www.cs.ox.ac.uk/people/zehua.cheng/) at University of Oxford.
 
 We build autonomous agents that reason over distributed, high-stakes data (Bio & Finance) without ever centralizing it. We replace trust with cryptography and replace correlation with causal/structural reasoning. For more details, please refer to my [WORKING PROJECTS](https://limberc.site/WP1/). We are working very close with top-tier LLM teams.
 
