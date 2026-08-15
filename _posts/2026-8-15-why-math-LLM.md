@@ -1,6 +1,6 @@
 ---
-title: 'How a Tiny Tweak Unlocks Massive Performance in Large Language Models'
-date: 2025-11-28
+title: 'Why Should Large Language Models Be Good at Mathematics?'
+date: 2026-8-15
 tags:
   - blog
   - update
