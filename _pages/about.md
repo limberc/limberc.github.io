@@ -15,7 +15,9 @@ Currently, I am leading AI research at FLock.io, where I focus on advancing dece
 
 ## News
 
-08/2026 - SIX papers accepted for CIKM 2026!
+08/2026 - TWO papers accepted for IEEE ICDM 2026!
+
+08/2026 - SIX papers accepted for CIKM 2026! (5 for [SIE](https://limberc.site/sie/), 1 for [HNF](https://limberc.site/infra/))
 
 07/2026 - Invited to serve as Area Chair for [EACL 2027](https://2027.eacl.org/) (ARR August 2026).
 
