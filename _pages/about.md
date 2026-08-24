@@ -9,7 +9,7 @@ redirect_from:
 
 I obtained my Ph.D. in Computer Science from the Department of Computer Science, University of Oxford. I am currently a Professor at Korea University and an [Associate Fellow](https://www.cs.ox.ac.uk/people/zehua.cheng/) at University of Oxford.
 
-We build autonomous agents that reason over distributed, high-stakes data (Bio & Finance) without ever centralizing it. We replace trust with cryptography and replace correlation with causal/structural reasoning. For more details, please refer to my [WORKING PROJECTS](https://limberc.site/WP1/). We are working very close with top-tier LLM teams.
+We build autonomous agents that reason over distributed, high-stakes data (Bio & Finance) without ever centralizing it. We replace trust with cryptography — the [Rhizome](https://limberc.site/infra/) — and replace correlation with causal/structural reasoning — the [Episteme](https://limberc.site/episteme/). We are working very close with top-tier LLM teams.
 
 Currently, I am leading AI research at FLock.io, where I focus on advancing decentralized ML systems. I am now cooperate with [Prof. Jim Davies](https://www.bdi.ox.ac.uk/Team/jim-davies) and [Prof Ivan Martinovic](https://www.cs.ox.ac.uk/people/ivan.martinovic/) from University of Oxford.
 
@@ -17,17 +17,17 @@ Currently, I am leading AI research at FLock.io, where I focus on advancing dece
 
 08/2026 - TWO papers accepted for IEEE ICDM 2026!
 
-08/2026 - SIX papers accepted for CIKM 2026! (5 for [SIE](https://limberc.site/sie/), 1 for [HNF](https://limberc.site/infra/)). **3 ORAL, 3 POSTER**!
+08/2026 - SIX papers accepted for CIKM 2026! (5 for [Episteme](https://limberc.site/episteme/), 1 for [Rhizome](https://limberc.site/infra/)). **3 ORAL, 3 POSTER**!
 
 07/2026 - Invited to serve as Area Chair for [EACL 2027](https://2027.eacl.org/) (ARR August 2026).
 
 07/2026 - Invited to serve as Area Chair for [SIGKDD 2027](https://kdd2027.kdd.org/).
 
-06/2026 - ONE paper for [HNF](https://limberc.site/infra/) accepted for ICPP 2026! Congratulations to ALL Authors!
+06/2026 - ONE paper for [Rhizome](https://limberc.site/infra/) accepted for ICPP 2026! Congratulations to ALL Authors!
 
-05/2026 - ONE paper for [SIE](https://limberc.site/sie/) accepted for UAI 2026 **(Oral)**! Congratulations to ALL Authors!
+05/2026 - ONE paper for [Episteme](https://limberc.site/episteme/) accepted for UAI 2026 **(Oral)**! Congratulations to ALL Authors!
 
-05/2026 - THREE papers for [SIE](https://limberc.site/sie/) accepted for ECML-PKDD 2026!  Congratulations to ALL Authors!
+05/2026 - THREE papers for [Episteme](https://limberc.site/episteme/) accepted for ECML-PKDD 2026!  Congratulations to ALL Authors!
 
 04/2026 - Invited Guest Lecture on *AI Safety and Governance in the Era of LLM* at COMP60272 AI Security & Privacy at the University of Manchester.
 
@@ -35,13 +35,13 @@ Currently, I am leading AI research at FLock.io, where I focus on advancing dece
 
 04/2026 - Invited Lecture on [*Building Reliable and Trustworthy LLM*](https://security.korea.ac.kr/m06_04/105) at Korea University!
 
-04/2026 - ONE paper for [HNF](https://limberc.site/infra/) has been accepted in ICMR 2026 (Long)! Congratulations to ALL Authors!
+04/2026 - ONE paper for [Rhizome](https://limberc.site/infra/) has been accepted in ICMR 2026 (Long)! Congratulations to ALL Authors!
 
-04/2026 - TWO papers for [SIE](https://limberc.site/sie/) have been accepted in *ACL 2026*! (One Main, One Findings)! Congratulations to ALL Authors!
+04/2026 - TWO papers for [Episteme](https://limberc.site/episteme/) have been accepted in *ACL 2026*! (One Main, One Findings)! Congratulations to ALL Authors!
 
 03/2026 - Invited to serve as Area Chair for [NeurIPS 2026](https://neurips.cc/).
 
-03/2026 - One (And the first) paper for [SIE](https://limberc.site/sie/) has been accepted in *ICME 2026*! Congratulations to ALL Authors!
+03/2026 - One (And the first) paper for [Episteme](https://limberc.site/episteme/) has been accepted in *ICME 2026*! Congratulations to ALL Authors!
 
 03/2026 - I am honored to announce that I will be serving as Vice Chair for the 6th Digital Twin International Conference (DigiTwin 2026). The event will be held in a hybrid format from August 4–8, 2026, at the University of Oxford, UK. DigiTwin is a premier global platform dedicated to advancing digital twin concepts, technologies, and interdisciplinary applications. I look forward to helping organize this prestigious event and collaborating with leading researchers and industry experts. Learn more about the conference [here](https://idea-global.net/digitwin2026/index.aspx).
 
