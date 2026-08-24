@@ -103,3 +103,8 @@ An ontology tells such an agent what the world contains. The episteme tells it w
 13. **Zehua Cheng**, Wei Dai, and Jiahao Sun. "*Gradient Interaction Graph Optimization*". In Proceedings of CIKM 2026.
 14. **Zehua Cheng**, Wei Dai, and Jiahao Sun. "*Invariant Gradient Alignment for Robust Reasoning Distillation*". In Proceedings of ECML-PKDD 2026.
 {: start="12"}
+
+Applications
+
+15. **Zehua Cheng**, Wei Dai, and Jiahao Sun. "*Timescale-Disentangled Generative Models of Protein Dynamics*". In Proceedings of IEEE ICDM 2026.
+16. **Zehua Cheng**, Wei Dai, and Jiahao Sun. "*Transition Path Diffusion for Protein Reactive Trajectories*".  In Proceedings of IEEE ICDM 2026.
