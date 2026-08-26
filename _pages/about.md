@@ -53,6 +53,14 @@ I am a Professor in the Department of Information Security at Korea University, 
 
 [FLock.io Oxford Phil in Computer Science Scholarship: Security of AI Systems](https://www.cs.ox.ac.uk/aboutus/vacancies/floc_io.html)
 
+## Collaboration
+
+I work in a university and in industry at the same time, and the useful part of that is not the two titles but the traffic between them. I can put researchers from different fields, students, and engineering teams onto the same problem, so a collaboration does not have to stop at the paper: it can carry through to a working system, real data, and a deployment that has to hold up outside the benchmark.
+
+For problems that genuinely deserve the attention, I can offer more than co-authorship — research supervision and mentoring for students and researchers alike, compute, engineering capacity, access to real data and deployment settings, and, where it is warranted, financial support.
+
+If you are working on something that belongs in either programme, write to me.
+
 ## Selected Awards:
 
 - WI-IAT 2025 Best Industrial Paper Award - [Scaling Decentralized Learning with FLock](https://arxiv.org/abs/2507.15349)
