@@ -110,4 +110,4 @@ Applications
 
 16. **Zehua Cheng**, Wei Dai, and Jiahao Sun. "*Transition Path Diffusion for Protein Reactive Trajectories*".  In Proceedings of IEEE ICDM 2026.
 
-    {: start="15"}
+{: start="15"}
