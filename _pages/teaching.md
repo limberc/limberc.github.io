@@ -4,11 +4,11 @@ permalink: /teaching/
 author_profile: true
 ---
 
-I teach **Secure AI Systems (CYD632)** at the [School of Cybersecurity](https://security.korea.ac.kr/), Korea University.
+I teach **Secure AI Systems (CYD632)** in the [Department of Information Security](https://security.korea.ac.kr/), Korea University.
 
 # Secure AI Systems
 
-*Graduate course · School of Cybersecurity, Korea University · Fall 2026 (first offering)*
+*Graduate course · Department of Information Security, Korea University · Fall 2026 (first offering)*
 
 The course addresses, with the rigour a graduate program demands, the question of how to design, build, deploy, evaluate, and govern systems whose central component is a large language model. Machine-learning training teaches the mathematics of optimization and the practice of empirical evaluation, but not the adversarial mindset by which systems are tested against motivated attackers. Security training teaches the adversarial mindset, threat modelling, and structured disclosure, but not the mechanics of stochastic systems whose specification is the joint product of training data, training procedure, and runtime configuration. A serious treatment of LLM systems requires both — and that requirement is the motivation for the course.
 
@@ -19,7 +19,7 @@ I wrote a textbook for the course, and it is free to download.
 <a href="{{ base_path }}/files/Secure_AI_Systems.pdf" class="btn btn--large" download>Download the textbook (PDF, 227 pages, 5.1 MB)</a>
 
 > **Secure AI Systems — A Graduate Textbook on the Security and Reliability of Large Language Model Systems.**
-> Zehua Cheng. School of Cybersecurity, Korea University. Edition v0.12
+> Zehua Cheng. Department of Information Security, Korea University. Edition v0.12
 
 The notes are designed to be read *alongside* the assigned papers rather than in place of them: they situate the papers, give working mental models, and provide the structural memory that makes the papers stick. Each chapter aligns with one week of the lecture plan, opens with a set of guiding questions, and closes with a key-papers list, a short self-check, and a look-ahead to the next chapter.
 

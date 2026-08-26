@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I obtained my Ph.D. in Computer Science from the Department of Computer Science, University of Oxford. I am currently a Professor at Korea University and an [Associate Fellow](https://www.cs.ox.ac.uk/people/zehua.cheng/) at University of Oxford.
+I build AI that reasons over data it is not allowed to see.
 
-We build autonomous agents that reason over distributed, high-stakes data (Bio & Finance) without ever centralizing it. We replace trust with cryptography — the [Rhizome](https://limberc.site/infra/) — and replace correlation with causal/structural reasoning — the [Episteme](https://limberc.site/episteme/). We are working very close with top-tier LLM teams.
+That splits into two programmes. The [Rhizome](https://limberc.site/infra/) is learning and inference across a mesh with no trusted centre — no node holds the data, no operator holds the model, and the guarantees come from cryptography and mechanism design rather than from anyone's reputation. The [Episteme](https://limberc.site/episteme/) is reasoning constrained by explicit mathematical structure rather than by fluency — factor graphs, automata, symmetry groups and curvature, imposed on the network instead of hoped for. Both aim at the same target: autonomous agents that work in biomedicine and finance, where a well-formed falsehood is not a lesser truth but a liability with a fluent surface.
 
-Currently, I am leading AI research at FLock.io, where I focus on advancing decentralized ML systems. I am now cooperate with [Prof. Jim Davies](https://www.bdi.ox.ac.uk/Team/jim-davies) and [Prof Ivan Martinovic](https://www.cs.ox.ac.uk/people/ivan.martinovic/) from University of Oxford.
+I am a Professor in the Department of Information Security at Korea University, and an [Associate Fellow](https://www.cs.ox.ac.uk/people/zehua.cheng/) at the University of Oxford, where I took my Ph.D. in Computer Science. I also lead AI research at FLock.io.
 
 ## News
 
