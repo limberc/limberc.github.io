@@ -11,7 +11,7 @@ I build AI that reasons over data it is not allowed to see.
 
 That splits into two programmes. The [Rhizome](https://limberc.site/infra/) is learning and inference across a mesh with no trusted centre — no node holds the data, no operator holds the model, and the guarantees come from cryptography and mechanism design rather than from anyone's reputation. The [Episteme](https://limberc.site/episteme/) is reasoning constrained by explicit mathematical structure rather than by fluency — factor graphs, automata, symmetry groups and curvature, imposed on the network instead of hoped for. Both aim at the same target: autonomous agents that work in biomedicine and finance, where a well-formed falsehood is not a lesser truth but a liability with a fluent surface.
 
-I am a Professor in the Department of Information Security at Korea University, and a [Associate Member](https://www.cs.ox.ac.uk/people/zehua.cheng/) of faculty of Department of Computer Science at University of Oxford, where I took my Ph.D. in Computer Science. I also lead AI research at FLock.io.
+I am an Adjunct Professor in the Department of Information Security at Korea University, and a [Associate Member](https://www.cs.ox.ac.uk/people/zehua.cheng/) of faculty of Department of Computer Science at University of Oxford, where I took my Ph.D. in Computer Science. I also lead AI research at FLock.io.
 
 ## News
 
