@@ -60,14 +60,15 @@ The three sections describe one artefact from three angles: a substrate that con
 
 1. **Zehua Cheng**, Rui Sun, Jiahao Sun and Yike Guo. (2025). "*Scaling Decentralized Learning with FLock.*" In Proceedings of 2025 IEEE/WIC International Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT). [**WI-IAT 2025 - Best Paper Award (Industrial)**] [[Paper]](https://arxiv.org/abs/2507.15349)
 2. **Zehua Cheng**, Wei Dai, and Jiahao Sun. "*Decentralized Learning with Communication-Efficient Learned Gradient Sketches*". In Proceedings of International Conference on Parallel Processing 2026.
+3. **Zehua Cheng**, Wei Dai, Zhipeng Wang, and Jiahao Sun. "*Rewarding the Heroes: Hierarchical Gradient-Based Shapley for Fair Federated Valuation*". In Proceedings of the 2026 International Conference on Distributed Artificial Intelligence (DAI). [**DAI 2026 - Oral**]
 
 **II. Training Without a Curator**
 
-3. **Zehua Cheng**, Manying Zhang, Jiahao Sun, and Wei Dai. "*On weaponization-resistant large language models with prospect theoretic alignment*." In Proceedings of the 31st International Conference on Computational Linguistics, pp. 10309-10324. 2025. [[Paper]](https://aclanthology.org/2025.coling-main.687.pdf)
-{: start="3"}
+4. **Zehua Cheng**, Manying Zhang, Jiahao Sun, and Wei Dai. "*On weaponization-resistant large language models with prospect theoretic alignment*." In Proceedings of the 31st International Conference on Computational Linguistics, pp. 10309-10324. 2025. [[Paper]](https://aclanthology.org/2025.coling-main.687.pdf)
+{: start="4"}
 
 **III. Serving Without an Operator**
 
-4. **Zehua Cheng**, Wei Dai, and Jiahao Sun. "*Identity-Decoupled Anonymization for Visual Evidence in Multi-modal Retrieval-Augmented Generation*". In Proceedings of 16th ACM International Conference on Multimedia Retrieval 2026.
-5. **Zehua Cheng**, Wei Dai, and Jiahao Sun. "*Graph-Driven Context-Preserving Anonymization: Decoupling Identity from Reasoning in LLM Training Corpora*". In Proceedings of CIKM 2026.
-{: start="4"}
+5. **Zehua Cheng**, Wei Dai, and Jiahao Sun. "*Identity-Decoupled Anonymization for Visual Evidence in Multi-modal Retrieval-Augmented Generation*". In Proceedings of 16th ACM International Conference on Multimedia Retrieval 2026.
+6. **Zehua Cheng**, Wei Dai, and Jiahao Sun. "*Graph-Driven Context-Preserving Anonymization: Decoupling Identity from Reasoning in LLM Training Corpora*". In Proceedings of CIKM 2026.
+{: start="5"}
