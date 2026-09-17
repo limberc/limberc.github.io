@@ -95,18 +95,19 @@ An ontology tells such an agent what the world contains. The episteme tells it w
 9. **Zehua Cheng**, Wei Dai, and Jiahao Sun. "*Hyperbolic Belief Propagation*". In Proceedings of UAI 2026. [**ORAL**]
 10. **Zehua Cheng**, Wei Dai, and Jiahao Sun. "*Equivariant Neural Belief Propagation*". In Proceedings of UAI 2026.
 11. **Zehua Cheng**, Wei Dai, and Jiahao Sun. "*In-Context Learning as Belief Propagation*". In Proceedings of CIKM 2026.
-{: start="9"}
+12. **Zehua Cheng**, Wei Dai, and Jiahao Sun. “*Anchoring Reasoning Distillation via Syntactic Constraints.*” In Proceedings of NeurIPS 2026.
+
+    {: start="9"}
 
 **IV. Embodying the Episteme** — geometry of training and model composition
 
-12. **Zehua Cheng**, Wei Dai, and Jiahao Sun. "*Curvature Graph Mergeability: Predicting Model Compatibility from Per-Layer Hessian Geometry*". In Proceedings of CIKM 2026.
-13. **Zehua Cheng**, Wei Dai, and Jiahao Sun. "*Gradient Interaction Graph Optimization*". In Proceedings of CIKM 2026.
-14. **Zehua Cheng**, Wei Dai, and Jiahao Sun. "*Invariant Gradient Alignment for Robust Reasoning Distillation*". In Proceedings of ECML-PKDD 2026.
-{: start="12"}
+13. **Zehua Cheng**, Wei Dai, and Jiahao Sun. "*Curvature Graph Mergeability: Predicting Model Compatibility from Per-Layer Hessian Geometry*". In Proceedings of CIKM 2026.
+14. **Zehua Cheng**, Wei Dai, and Jiahao Sun. "*Gradient Interaction Graph Optimization*". In Proceedings of CIKM 2026.
+15. **Zehua Cheng**, Wei Dai, and Jiahao Sun. "*Invariant Gradient Alignment for Robust Reasoning Distillation*". In Proceedings of ECML-PKDD 2026.
+    {: start="13"}
 
 Applications
 
-15. **Zehua Cheng**, Wei Dai, and Jiahao Sun. "*Timescale-Disentangled Generative Models of Protein Dynamics*". In Proceedings of IEEE ICDM 2026.
-
-16. **Zehua Cheng**, Wei Dai, and Jiahao Sun. "*Transition Path Diffusion for Protein Reactive Trajectories*".  In Proceedings of IEEE ICDM 2026.
-{: start="15"}
+16. **Zehua Cheng**, Wei Dai, and Jiahao Sun. "*Timescale-Disentangled Generative Models of Protein Dynamics*". In Proceedings of IEEE ICDM 2026.
+17. **Zehua Cheng**, Wei Dai, and Jiahao Sun. "*Transition Path Diffusion for Protein Reactive Trajectories*".  In Proceedings of IEEE ICDM 2026.
+    {: start="16"}

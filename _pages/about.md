@@ -15,6 +15,8 @@ I am an Adjunct Professor in the Department of Information Security at Korea Uni
 
 ## News
 
+09/2026 - ONE paper accepted for DAI 2026!
+
 08/2026 - TWO papers accepted for IEEE ICDM 2026!
 
 08/2026 - SIX papers accepted for CIKM 2026! (5 for [Episteme](https://limberc.site/episteme/), 1 for [Rhizome](https://limberc.site/infra/)). **3 ORAL, 3 POSTER**!
