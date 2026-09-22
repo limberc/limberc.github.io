@@ -15,6 +15,8 @@ I am an Adjunct Professor in the Department of Information Security at Korea Uni
 
 ## News
 
+09/2026 - We release [this-that-model 1.0](https://huggingface.co/flock-io/this-that-model-1.0) ([code](https://github.com/FLock-io/this-that-model)), together with two benchmarks: [this-that-complex-decisions](https://huggingface.co/datasets/limberc/this-that-complex-decisions) and [this-that-spatial-bench](https://huggingface.co/datasets/limberc/this-that-spatial-bench). All weights, data and evaluation code are open.
+
 09/2026 - ONE paper accepted for DAI 2026!
 
 08/2026 - TWO papers accepted for IEEE ICDM 2026!
