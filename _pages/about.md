@@ -15,6 +15,14 @@ I am an Adjunct Professor in the Department of Information Security at Korea Uni
 
 ## News
 
+09/2026 - **NINE** Application Papers about Virtual Cells accepted in [IEEE BIBM 2026](https://www3.cs.stonybrook.edu/~bibm2026/) !
+
+09/2026 - You can try our latest this-that-model free at our [Platform](https://platform.flock.io/models).
+
+09/2026 - ONE DAY after this-that model 1.1 released. We release [this-that-model 1.2](https://huggingface.co/flock-io/this-that-model-1.0) ([code](https://github.com/FLock-io/this-that-model)), All weights, data and evaluation code are open.
+
+09/2026 - ONE DAY after this-that model 1.0 released. We release [this-that-model 1.1](https://huggingface.co/flock-io/this-that-model-1.0) ([code](https://github.com/FLock-io/this-that-model)), All weights, data and evaluation code are open.
+
 09/2026 - We release [this-that-model 1.0](https://huggingface.co/flock-io/this-that-model-1.0) ([code](https://github.com/FLock-io/this-that-model)), together with two benchmarks: [this-that-complex-decisions](https://huggingface.co/datasets/limberc/this-that-complex-decisions) and [this-that-spatial-bench](https://huggingface.co/datasets/limberc/this-that-spatial-bench). All weights, data and evaluation code are open.
 
 09/2026 - ONE paper accepted for DAI 2026!
