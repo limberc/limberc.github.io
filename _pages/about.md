@@ -15,6 +15,8 @@ I am a  Professor in the Department of Information Security at Korea University,
 
 ## News
 
+09/2026 - **THREE** papers accepted for NeurIPS 2026!
+
 09/2026 - **NINE** Application Papers about Virtual Cells accepted in [IEEE BIBM 2026](https://www3.cs.stonybrook.edu/~bibm2026/) !
 
 09/2026 - You can try our latest this-that-model free at our [Platform](https://platform.flock.io/models).
