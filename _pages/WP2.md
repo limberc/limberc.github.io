@@ -84,39 +84,40 @@ An ontology tells such an agent what the world contains. The episteme tells it w
 5. **Zehua Cheng**, Wei Dai, and Jiahao Sun. "*Cavity-Calibrated Prediction Sets: Single-Pass Conformal Inference for Structured Outputs over Graphical Models*". In Proceedings of CIKM 2026.
 6. **Zehua Cheng**, Wei Dai, Wenhu Zhang, Thomas Lukasiewicz, and Jiahao Sun. "*Visual Set Program Synthesizer*". In Proceedings of IEEE International Conference on Multimedia and Expo 2026. [[Paper]](https://arxiv.org/pdf/2603.15997)
 7. **Zehua Cheng**, Wei Dai, and Jiahao Sun. "*Anchoring Reasoning Distillation via Syntactic Constraints*" In Proceedings of NeurIPS 2026.
+8. **Zehua Cheng**, Wei Dai, and Jiahao Sun. "*this-that-model-1.0: A typed decision model that decides in 30 ms, for a millionth of a cent*". Arxiv. [[Paper]](https://arxiv.org/abs/2609.23886) [[Model]](https://huggingface.co/flock-io/this-that-model-1.0)
 
 **II. Traversing the Episteme** — long-horizon reasoning and repair
 
-7. **Zehua Cheng**, Wei Dai, Jiahao Sun, and Thomas Lukasiewicz. "*HoloCoT: Holographic Chain-of-Thought via Orthogonal Subspace Anchoring for Persistent Long-Horizon Reasoning*". In Proceedings of ECML-PKDD 2026.
-8. **Zehua Cheng**, Wei Dai, Jiahao Sun, and Thomas Lukasiewicz. "*Imbuing Large Language Models with Bidirectional Logic for Robust Chain Repair*". In Proceedings of ECML-PKDD 2026.
-{: start="7"}
+9. **Zehua Cheng**, Wei Dai, Jiahao Sun, and Thomas Lukasiewicz. "*HoloCoT: Holographic Chain-of-Thought via Orthogonal Subspace Anchoring for Persistent Long-Horizon Reasoning*". In Proceedings of ECML-PKDD 2026.
+10. **Zehua Cheng**, Wei Dai, Jiahao Sun, and Thomas Lukasiewicz. "*Imbuing Large Language Models with Bidirectional Logic for Robust Chain Repair*". In Proceedings of ECML-PKDD 2026.
+{: start="9"}
 
 **III. Computing the Episteme** — neural inference engines
 
-9. **Zehua Cheng**, Wei Dai, and Jiahao Sun. "*Hyperbolic Belief Propagation*". In Proceedings of UAI 2026. [**ORAL**]
-10. **Zehua Cheng**, Wei Dai, and Jiahao Sun. "*Equivariant Neural Belief Propagation*". In Proceedings of UAI 2026.
-11. **Zehua Cheng**, Wei Dai, and Jiahao Sun. "*In-Context Learning as Belief Propagation*". In Proceedings of CIKM 2026.
-12. **Zehua Cheng**, Wei Dai, and Jiahao Sun. “*Anchoring Reasoning Distillation via Syntactic Constraints.*” In Proceedings of NeurIPS 2026.
-{: start="9"}
+11. **Zehua Cheng**, Wei Dai, and Jiahao Sun. "*Hyperbolic Belief Propagation*". In Proceedings of UAI 2026. [**ORAL**]
+12. **Zehua Cheng**, Wei Dai, and Jiahao Sun. "*Equivariant Neural Belief Propagation*". In Proceedings of UAI 2026.
+13. **Zehua Cheng**, Wei Dai, and Jiahao Sun. "*In-Context Learning as Belief Propagation*". In Proceedings of CIKM 2026.
+14. **Zehua Cheng**, Wei Dai, and Jiahao Sun. “*Anchoring Reasoning Distillation via Syntactic Constraints.*” In Proceedings of NeurIPS 2026.
+{: start="11"}
 
 **IV. Embodying the Episteme** — geometry of training and model composition
 
-13. **Zehua Cheng**, Wei Dai, and Jiahao Sun. "*Curvature Graph Mergeability: Predicting Model Compatibility from Per-Layer Hessian Geometry*". In Proceedings of CIKM 2026.
-14. **Zehua Cheng**, Wei Dai, and Jiahao Sun. "*Gradient Interaction Graph Optimization*". In Proceedings of CIKM 2026.
-15. **Zehua Cheng**, Wei Dai, and Jiahao Sun. "*Invariant Gradient Alignment for Robust Reasoning Distillation*". In Proceedings of ECML-PKDD 2026.
-{: start="13"}
+15. **Zehua Cheng**, Wei Dai, and Jiahao Sun. "*Curvature Graph Mergeability: Predicting Model Compatibility from Per-Layer Hessian Geometry*". In Proceedings of CIKM 2026.
+16. **Zehua Cheng**, Wei Dai, and Jiahao Sun. "*Gradient Interaction Graph Optimization*". In Proceedings of CIKM 2026.
+17. **Zehua Cheng**, Wei Dai, and Jiahao Sun. "*Invariant Gradient Alignment for Robust Reasoning Distillation*". In Proceedings of ECML-PKDD 2026.
+{: start="15"}
 
-Applications
+## Applications
 
-16. **Zehua Cheng**, Wei Dai, and Jiahao Sun. "*Timescale-Disentangled Generative Models of Protein Dynamics*". In Proceedings of IEEE ICDM 2026.
-17. **Zehua Cheng**, Wei Dai, and Jiahao Sun. "*Transition Path Diffusion for Protein Reactive Trajectories*".  In Proceedings of IEEE ICDM 2026.
-18. **Zehua Cheng**, Wei Dai, and Jiahao Sun. "*Counterfactual Pocket Augmentation for Robust Virtual Screening*". In Proceedings of IEEE BIBM 2026.
-19. **Zehua Cheng**, Wei Dai, and Jiahao Sun. "*Free ADMET Prediction from the Binding-Orthogonal Subspace*". In Proceedings of IEEE BIBM 2026.
-20. **Zehua Cheng**, Wei Dai, and Jiahao Sun. "*LACS: Safe Adaptive Scheduling for Multi-Scale Biological Simulation*". In Proceedings of IEEE BIBM 2026.
-21. **Zehua Cheng**, Wei Dai, and Jiahao Sun. "*Protein Language Models Encode Dynamics for Ensemble Generation*". In Proceedings of IEEE BIBM 2026.
-22. **Zehua Cheng**, Wei Dai, and Jiahao Sun. "*Conformal Contrastive Screening: Distribution-Free Recall Guarantees for Virtual Screening*". In Proceedings of IEEE BIBM 2026.
-23. **Zehua Cheng**, Wei Dai, and Jiahao Sun. "*Fragment-to-Subpocket Alignment for Structure-Based Virtual Screening*". In Proceedings of IEEE BIBM 2026.
-24. **Zehua Cheng**, Wei Dai, and Jiahao Sun. "*Continual Contrastive Screening for Structure-Based Virtual Screening*". In Proceedings of IEEE BIBM 2026.
-25. **Zehua Cheng**, Wei Dai, and Jiahao Sun. "*Druggability-Guided Diffusion for Cryptic Pocket Discovery*". In Proceedings of IEEE BIBM 2026.
-26. **Zehua Cheng**, Wei Dai, and Jiahao Sun. "*Orthogonal Feature Learning Recovers Virtual-Screening Blind Spots*". In Proceedings of IEEE BIBM 2026.
-{: start="16"}
+18. **Zehua Cheng**, Wei Dai, and Jiahao Sun. "*Timescale-Disentangled Generative Models of Protein Dynamics*". In Proceedings of IEEE ICDM 2026.
+19. **Zehua Cheng**, Wei Dai, and Jiahao Sun. "*Transition Path Diffusion for Protein Reactive Trajectories*".  In Proceedings of IEEE ICDM 2026.
+20. **Zehua Cheng**, Wei Dai, and Jiahao Sun. "*Counterfactual Pocket Augmentation for Robust Virtual Screening*". In Proceedings of IEEE BIBM 2026.
+21. **Zehua Cheng**, Wei Dai, and Jiahao Sun. "*Free ADMET Prediction from the Binding-Orthogonal Subspace*". In Proceedings of IEEE BIBM 2026.
+22. **Zehua Cheng**, Wei Dai, and Jiahao Sun. "*LACS: Safe Adaptive Scheduling for Multi-Scale Biological Simulation*". In Proceedings of IEEE BIBM 2026.
+23. **Zehua Cheng**, Wei Dai, and Jiahao Sun. "*Protein Language Models Encode Dynamics for Ensemble Generation*". In Proceedings of IEEE BIBM 2026.
+24. **Zehua Cheng**, Wei Dai, and Jiahao Sun. "*Conformal Contrastive Screening: Distribution-Free Recall Guarantees for Virtual Screening*". In Proceedings of IEEE BIBM 2026.
+25. **Zehua Cheng**, Wei Dai, and Jiahao Sun. "*Fragment-to-Subpocket Alignment for Structure-Based Virtual Screening*". In Proceedings of IEEE BIBM 2026.
+26. **Zehua Cheng**, Wei Dai, and Jiahao Sun. "*Continual Contrastive Screening for Structure-Based Virtual Screening*". In Proceedings of IEEE BIBM 2026.
+27. **Zehua Cheng**, Wei Dai, and Jiahao Sun. "*Druggability-Guided Diffusion for Cryptic Pocket Discovery*". In Proceedings of IEEE BIBM 2026.
+28. **Zehua Cheng**, Wei Dai, and Jiahao Sun. "*Orthogonal Feature Learning Recovers Virtual-Screening Blind Spots*". In Proceedings of IEEE BIBM 2026.
+{: start="18"}
