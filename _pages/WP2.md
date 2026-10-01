@@ -80,10 +80,10 @@ An ontology tells such an agent what the world contains. The episteme tells it w
 1. **Zehua Cheng**, Wei Dai, Jiahao Sun, and Thomas Lukasiewicz. "*GraphSynth: Resolving the Diversity-Reliability Trade-off with Probabilistic Factor Graphs*". In Proceedings of ACL 2026. [[Paper]](https://aclanthology.org/2026.acl-long.1969/)
 2. **Zehua Cheng**, Wei Dai, Jiahao Sun, and Thomas Lukasiewicz. "*CircuitSynth: Reliable Synthetic Data Generation*". In Proceedings of ACL Findings 2026. [[Paper]](https://arxiv.org/abs/2604.10114)
 3. **Zehua Cheng**, Wei Dai, Jiahao Sun, and Thomas Lukasiewicz. "*CausalSynth: Generating Structurally Sound Synthetic Data*". Arxiv. [[Paper]](https://arxiv.org/abs/2605.17528)
-4. **Zehua Cheng**, Wei Dai, and Jiahao Sun. "*Bethe Consensus Decoding: Joint Inference on Empirical Pairwise Factor Graphs for Structured LLM Outputs*". In Proceedings of CIKM 2026.
-5. **Zehua Cheng**, Wei Dai, and Jiahao Sun. "*Cavity-Calibrated Prediction Sets: Single-Pass Conformal Inference for Structured Outputs over Graphical Models*". In Proceedings of CIKM 2026.
-6. **Zehua Cheng**, Wei Dai, Wenhu Zhang, Thomas Lukasiewicz, and Jiahao Sun. "*Visual Set Program Synthesizer*". In Proceedings of IEEE International Conference on Multimedia and Expo 2026. [[Paper]](https://arxiv.org/pdf/2603.15997)
-7. **Zehua Cheng**, Wei Dai, and Jiahao Sun. "*Anchoring Reasoning Distillation via Syntactic Constraints*" In Proceedings of NeurIPS 2026.
+4. **Zehua Cheng**, Wei Dai, and Jiahao Sun. "*Anchoring Reasoning Distillation via Syntactic Constraints*" In Proceedings of NeurIPS 2026.
+5. **Zehua Cheng**, Wei Dai, and Jiahao Sun. "*Bethe Consensus Decoding: Joint Inference on Empirical Pairwise Factor Graphs for Structured LLM Outputs*". In Proceedings of CIKM 2026.
+6. **Zehua Cheng**, Wei Dai, and Jiahao Sun. "*Cavity-Calibrated Prediction Sets: Single-Pass Conformal Inference for Structured Outputs over Graphical Models*". In Proceedings of CIKM 2026.
+7. **Zehua Cheng**, Wei Dai, Wenhu Zhang, Thomas Lukasiewicz, and Jiahao Sun. "*Visual Set Program Synthesizer*". In Proceedings of IEEE International Conference on Multimedia and Expo 2026. [[Paper]](https://arxiv.org/pdf/2603.15997)
 8. **Zehua Cheng**, Wei Dai, and Jiahao Sun. "*this-that-model-1.0: A typed decision model that decides in 30 ms, for a millionth of a cent*". Arxiv. [[Paper]](https://arxiv.org/abs/2609.23886) [[Model]](https://huggingface.co/flock-io/this-that-model-1.0)
 
 **II. Traversing the Episteme** — long-horizon reasoning and repair
