@@ -8,6 +8,8 @@ author_profile: true
 
 A language model trained to predict the next token learns *doxa* — opinion that is plausible, fluent, and carries no account of why it should be believed. It can be right without being justified, and it cannot tell the two apart. We build the other thing: the **episteme**, the space of admissible conclusions, written down in mathematics, that a model computes *inside* rather than merely aims at.
 
+Learning is the opposite of memorization. The purpose of learning is to obtain rules with verifiable boundaries. To expand and advance this process on a larger scale is what constitutes science.
+
 If you are interested in any of this project, please feel free to contact me. :)
 
 # The Episteme
