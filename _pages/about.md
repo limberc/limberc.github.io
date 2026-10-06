@@ -13,15 +13,6 @@ That splits into two programmes. The [Rhizome](https://limberc.site/infra/) is l
 
 I am a  Professor in the Department of Information Security at Korea University, and a [Associate Member](https://www.cs.ox.ac.uk/people/zehua.cheng/) of faculty of Department of Computer Science at University of Oxford, where I took my Ph.D. in Computer Science. I also lead AI research at FLock.io.
 
-<div class="affiliation-logos" aria-label="Academic affiliations">
-  <a class="affiliation-logo" href="https://www.ox.ac.uk/" aria-label="University of Oxford">
-    <img src="{{ '/images/oxford-logo.svg' | relative_url }}" alt="University of Oxford">
-  </a>
-  <a class="affiliation-logo" href="https://www.korea.ac.kr/" aria-label="Korea University">
-    <img src="{{ '/images/korea-university-logo.svg' | relative_url }}" alt="Korea University">
-  </a>
-</div>
-
 ## News
 
 09/2026 - **THREE** papers accepted for NeurIPS 2026!

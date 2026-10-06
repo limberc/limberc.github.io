@@ -20,6 +20,17 @@
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
   </div>
 
+  {% if page.url == "/" %}
+    <div class="affiliation-logos" aria-label="Academic affiliations">
+      <a class="affiliation-logo affiliation-logo--oxford" href="https://www.ox.ac.uk/" aria-label="University of Oxford">
+        <img src="{{ '/images/oxford-logo.svg' | relative_url }}" alt="University of Oxford">
+      </a>
+      <a class="affiliation-logo affiliation-logo--korea" href="https://www.korea.ac.kr/" aria-label="Korea University">
+        <img src="{{ '/images/korea-university-logo.svg' | relative_url }}" alt="Korea University">
+      </a>
+    </div>
+  {% endif %}
+
   <div class="author__urls-wrapper">
     <button class="btn btn--inverse">Follow</button>
     <ul class="author__urls social-icons">
