@@ -1,5 +1,71 @@
 // in _sass/custom/custom.scss
 
+.affiliation-logos {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 1.25rem 2rem;
+  margin: 2rem 0 2.5rem;
+}
+
+.affiliation-logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 72px;
+  padding: 0.5rem;
+  border: 1px solid var(--global-border-color);
+  border-radius: $border-radius;
+  background: var(--global-bg-color);
+  transition: box-shadow 0.2s ease-in-out, transform 0.2s ease-in-out;
+
+  &:hover,
+  &:focus-visible {
+    box-shadow: 0 2px 10px rgba(#000, 0.12);
+    transform: translateY(-1px);
+  }
+
+  &:focus-visible {
+    outline: 2px solid var(--global-link-color);
+    outline-offset: 3px;
+  }
+
+  img {
+    display: block;
+    width: auto;
+    height: auto;
+    max-width: 100%;
+    object-fit: contain;
+  }
+
+  &:first-child img {
+    width: 210px;
+  }
+
+  &:last-child img {
+    width: 150px;
+    max-height: 68px;
+  }
+}
+
+@media screen and (max-width: $small) {
+  .affiliation-logos {
+    gap: 0.75rem;
+  }
+
+  .affiliation-logo {
+    flex: 1 1 130px;
+
+    &:first-child img {
+      width: 170px;
+    }
+
+    &:last-child img {
+      width: 130px;
+    }
+  }
+}
+
 .lab-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
