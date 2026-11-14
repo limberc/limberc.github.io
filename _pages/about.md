@@ -15,6 +15,10 @@ I am a  Professor in the Department of Information Security at Korea University,
 
 ## News
 
+11/2026 - It's a great honor to receive New Faculty Highlight Award from IEEE BigData 2026 .
+
+10/2026 - Invited talk in HIT-Webinar for *From Static Distributions to Dynamical Processes: Structured Generative Modeling of Protein Dynamics* in [HIT Webinar](https://hit-webinar.com/) [[Video]](https://www.bilibili.com/video/BV1QVnd6YEBc/)
+
 09/2026 - **THREE** papers accepted for NeurIPS 2026!
 
 09/2026 - **NINE** Application Papers about Virtual Cells accepted in [IEEE BIBM 2026](https://www3.cs.stonybrook.edu/~bibm2026/) !
